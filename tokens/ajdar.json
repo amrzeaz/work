@@ -1,0 +1,16 @@
+{
+  "Brand": {
+    "red": {
+      "value": "{colors.pink.700}",
+      "type": "color"
+    },
+    "primary": {
+      "value": "#bac71a",
+      "type": "color"
+    },
+    "green": {
+      "value": "{Brand.red}",
+      "type": "color"
+    }
+  }
+}
