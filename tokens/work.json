@@ -575,42 +575,48 @@
         "value": "{fontSizes.body} * 0.65",
         "type": "fontSizes"
       }
-    },
-    "buttons": {
-      "color": {
-        "value": "#56ff0a",
+    }
+  },
+  "ajdar": {
+    "Brand": {
+      "red": {
+        "value": "{colors.pink.700}",
+        "type": "color"
+      },
+      "primary": {
+        "value": "#1a79c7",
+        "type": "color"
+      },
+      "green": {
+        "value": "{colors.green.600}",
         "type": "color"
       }
     }
   },
   "$themes": [
     {
-      "id": "80cc47426f46a85cc6eaf92ae6dee4aebc561c52",
-      "name": "test",
+      "id": "68276f7f4d3f0d9125fd53da9514806710a28eb1",
+      "name": "Brand A Light",
       "$figmaStyleReferences": {},
       "selectedTokenSets": {
-        "core": "source"
-      },
-      "$figmaCollectionId": "VariableCollectionId:1065:43929",
-      "$figmaModeId": "1065:0",
-      "$figmaVariableReferences": {
-        "button.primary.background": "27a05bff19360846ef912cff4e528001b05552d7",
-        "button.primary.text": "0ba99b5cd0b3f0d592fe26d180956a3a55213600",
-        "button.primary.yellow": "8694d8fd80c47f9e7855b0b31dac1ba9e27faf36",
-        "button.primary.red": "8e7d50e9b2f67acdfe432f4c2596d8025454b161",
-        "button.borderRadius": "f8a184311e2cde329eb3f4fcd39d4a71adb3e1fb",
-        "button.borderWidth": "bce80ad21889617c017b2a4b33d8e217a4b29622",
-        "card.borderRadius": "762c9038b70b4b56b6aed417bb68b7d81a274d42",
-        "card.background": "d916af5424526aac6d00761c22d863e2c3d89aa2",
-        "card.padding": "ba3d8fe71b9f676c52051b5b432ee89da9f482a0",
-        "size-refrence-amr": "d88bae8c7b0c703f8442cf6d21b3a30e8443af45",
-        "size-refrence-amr2": "51c6581a81e05cbd4cce18566fba570460278050"
+        "core": "source",
+        "ajdar": "enabled"
+      }
+    },
+    {
+      "id": "651b94a8423dc7e87c2b8d435640fd9f30ae2192",
+      "name": "Brand A Dark",
+      "$figmaStyleReferences": {},
+      "selectedTokenSets": {
+        "core": "source",
+        "ajdar": "enabled"
       }
     }
   ],
   "$metadata": {
     "tokenSetOrder": [
-      "core"
+      "core",
+      "ajdar"
     ]
   }
 }
