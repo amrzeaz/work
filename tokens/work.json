@@ -74,7 +74,7 @@
     },
     "colors": {
       "black": {
-        "value": "#000000",
+        "value": "#d40f0f",
         "type": "color"
       },
       "white": {
@@ -584,11 +584,11 @@
         "type": "color"
       },
       "primary": {
-        "value": "#1a79c7",
+        "value": "#bac71a",
         "type": "color"
       },
       "green": {
-        "value": "{colors.green.600}",
+        "value": "{Brand.red}",
         "type": "color"
       }
     }
