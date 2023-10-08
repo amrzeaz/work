@@ -1,6 +1,17 @@
 {
   "tokenSetOrder": [
-    "core",
-    "ajdar"
+    "Core/Premitives",
+    "Theme/Light",
+    "Theme/Dark",
+    "Semantic/Dimension",
+    "Semantic/Color",
+    "Semantic/Typography",
+    "Semantic/Effect",
+    "Components/Button",
+    "Components/Input",
+    "Components/List",
+    "Components/Breadcrumb",
+    "Components/Menu",
+    "Components/Tooltip"
   ]
 }
