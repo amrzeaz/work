@@ -1,1 +1,42 @@
-[]
+[
+  {
+    "id": "af3a819eed188d7dc6b7f29948f74e854f7dcf5c",
+    "name": "Light",
+    "$figmaStyleReferences": {},
+    "selectedTokenSets": {
+      "Core/Premitives": "enabled",
+      "Theme/Light": "enabled",
+      "Semantic/Dimension": "enabled",
+      "Semantic/Color": "enabled",
+      "Semantic/Typography": "enabled",
+      "Semantic/Effect": "enabled",
+      "Components/Button": "enabled",
+      "Components/Input": "enabled",
+      "Components/List": "enabled",
+      "Components/Breadcrumb": "enabled",
+      "Components/Menu": "enabled",
+      "Components/Tooltip": "enabled"
+    },
+    "group": "SCE"
+  },
+  {
+    "id": "ce006aa69a4ba91f0bc03fd454178a325dfc831d",
+    "name": "Dark",
+    "$figmaStyleReferences": {},
+    "selectedTokenSets": {
+      "Core/Premitives": "enabled",
+      "Semantic/Dimension": "enabled",
+      "Semantic/Color": "enabled",
+      "Semantic/Typography": "enabled",
+      "Semantic/Effect": "enabled",
+      "Components/Button": "enabled",
+      "Components/Input": "enabled",
+      "Components/List": "enabled",
+      "Components/Breadcrumb": "enabled",
+      "Components/Menu": "enabled",
+      "Components/Tooltip": "enabled",
+      "Theme/Dark": "source"
+    },
+    "group": "SCE"
+  }
+]
