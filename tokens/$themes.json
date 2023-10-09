@@ -16,8 +16,7 @@
       "Components/Breadcrumb": "enabled",
       "Components/Menu": "enabled",
       "Components/Tooltip": "enabled",
-      "Components/Tab": "source",
-      "Components/Table2": "disabled"
+      "Components/Tab": "source"
     },
     "group": "SCE"
   },
@@ -38,8 +37,7 @@
       "Components/Menu": "enabled",
       "Components/Tooltip": "enabled",
       "Theme/Dark": "source",
-      "Components/Tab": "source",
-      "Components/Table2": "disabled"
+      "Components/Tab": "source"
     },
     "group": "SCE"
   }
