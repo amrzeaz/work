@@ -13,7 +13,6 @@
     "Components/Breadcrumb",
     "Components/Menu",
     "Components/Tab",
-    "Components/Tooltip",
-    "Components/Table2"
+    "Components/Tooltip"
   ]
 }
