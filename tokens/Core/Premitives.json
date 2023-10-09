@@ -1,1 +1,6 @@
-{}
+{
+  "red": {
+    "value": "#f90d0d",
+    "type": "color"
+  }
+}
