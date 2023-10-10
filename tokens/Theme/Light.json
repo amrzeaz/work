@@ -1,1 +1,28 @@
-{}
+{
+  "Gray-Primer": {
+    "20": {
+      "value": "{Gray-Primer.Light.20}",
+      "type": "color"
+    },
+    "40": {
+      "value": "{Gray-Primer.Light.40}",
+      "type": "color"
+    },
+    "60": {
+      "value": "{Gray-Primer.Light.60}",
+      "type": "color"
+    },
+    "80": {
+      "value": "{Gray-Primer.Light.80}",
+      "type": "color"
+    },
+    "100": {
+      "value": "{Gray-Primer.Light.100}",
+      "type": "color"
+    },
+    "200": {
+      "value": "{Gray-Primer.Light.200}",
+      "type": "color"
+    }
+  }
+}
