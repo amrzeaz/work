@@ -1,6 +1,8 @@
 {
-  "BTN-Surface": {
-    "value": "{Gray}",
-    "type": "color"
+  "cooolor": {
+    "BTN-Surface": {
+      "value": "{Theme-Color.Gray}",
+      "type": "color"
+    }
   }
 }

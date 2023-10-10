@@ -1,6 +1,8 @@
 {
-  "Gray": {
-    "value": "{Base-Light.300}",
-    "type": "color"
+  "Theme-Color": {
+    "Gray": {
+      "value": "{Base-Light.300}",
+      "type": "color"
+    }
   }
 }
