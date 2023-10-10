@@ -1,1 +1,26 @@
-{}
+{
+  "Col": {
+    "Base": {
+      "Light": {
+        "Gray-Prime": {
+          "20": {
+            "value": "#FBFCFD",
+            "type": "color"
+          },
+          "40": {
+            "value": "#F4F6F8",
+            "type": "color"
+          },
+          "60": {
+            "value": "#F4F6F8",
+            "type": "color"
+          },
+          "80": {
+            "value": "#E8EBEE",
+            "type": "color"
+          }
+        }
+      }
+    }
+  }
+}
