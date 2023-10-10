@@ -1,56 +1,6 @@
 {
   "Gray": {
-    "20": {
-      "value": "{Base-Gray.Light.20}",
-      "type": "color"
-    },
-    "40": {
-      "value": "{Base-Gray.Light.40}",
-      "type": "color"
-    },
-    "60": {
-      "value": "{Base-Gray.Light.60}",
-      "type": "color"
-    },
-    "80": {
-      "value": "{Base-Gray.Light.80}",
-      "type": "color"
-    },
-    "100": {
-      "value": "{Base-Gray.Light.100}",
-      "type": "color"
-    },
-    "200": {
-      "value": "{Base-Gray.Light.200}",
-      "type": "color"
-    },
-    "300": {
-      "value": "{Base-Gray.Light.300}",
-      "type": "color"
-    },
-    "400": {
-      "value": "{Base-Gray.Light.400}",
-      "type": "color"
-    },
-    "500": {
-      "value": "{Base-Gray.Light.500}",
-      "type": "color"
-    },
-    "600": {
-      "value": "{Base-Gray.Light.600}",
-      "type": "color"
-    },
-    "700": {
-      "value": "{Base-Gray.Light.700}",
-      "type": "color"
-    },
-    "800": {
-      "value": "{Base-Gray.Light.800}",
-      "type": "color"
-    },
-    "900": {
-      "value": "{Base-Gray.Light.900}",
-      "type": "color"
-    }
+    "value": "{Base-Light.900}",
+    "type": "color"
   }
 }

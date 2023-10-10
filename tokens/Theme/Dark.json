@@ -1,8 +1,6 @@
 {
   "Gray": {
-    "20": {
-      "value": "{Base-Gray.Dark.20}",
-      "type": "color"
-    }
+    "value": "{Base-Light.300}",
+    "type": "color"
   }
 }
