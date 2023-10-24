@@ -1,0 +1,14 @@
+{
+  "Color": {
+    "Solid": {
+      "1": {
+        "value": "#F8F9F9",
+        "type": "color"
+      },
+      "2": {
+        "value": "#F4F5F6",
+        "type": "color"
+      }
+    }
+  }
+}

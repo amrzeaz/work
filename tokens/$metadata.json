@@ -1,6 +1,6 @@
 {
   "tokenSetOrder": [
-    "Core/Premitives",
+    "Global/Colors-Light",
     "Theme/Light",
     "Theme/Dark",
     "Semantic/Dimension",

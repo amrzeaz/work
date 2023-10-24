@@ -4,7 +4,6 @@
     "name": "Light",
     "$figmaStyleReferences": {},
     "selectedTokenSets": {
-      "Core/Premitives": "enabled",
       "Theme/Light": "enabled",
       "Semantic/Dimension": "enabled",
       "Semantic/Color": "enabled",
@@ -16,7 +15,8 @@
       "Components/Breadcrumb": "enabled",
       "Components/Menu": "enabled",
       "Components/Tooltip": "enabled",
-      "Components/Tab": "source"
+      "Components/Tab": "source",
+      "Global/Colors-Light": "enabled"
     },
     "group": "SCE",
     "$figmaCollectionId": "VariableCollectionId:98:466",
@@ -45,7 +45,6 @@
     "name": "Dark",
     "$figmaStyleReferences": {},
     "selectedTokenSets": {
-      "Core/Premitives": "enabled",
       "Semantic/Dimension": "enabled",
       "Semantic/Color": "enabled",
       "Semantic/Typography": "enabled",
@@ -57,7 +56,8 @@
       "Components/Menu": "enabled",
       "Components/Tooltip": "enabled",
       "Theme/Dark": "source",
-      "Components/Tab": "source"
+      "Components/Tab": "source",
+      "Global/Colors-Light": "enabled"
     },
     "group": "SCE",
     "$figmaCollectionId": "VariableCollectionId:98:466",
