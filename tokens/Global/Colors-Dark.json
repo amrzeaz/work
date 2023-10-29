@@ -757,47 +757,47 @@
     },
     "Rose": {
       "1": {
-        "value": "#FFF6F7",
+        "value": "#0F0607",
         "type": "color"
       },
       "2": {
-        "value": "#FFF0F2",
+        "value": "#1A0A0C",
         "type": "color"
       },
       "3": {
-        "value": "#FFE6EA",
+        "value": "#291014",
         "type": "color"
       },
       "4": {
-        "value": "#FFDAE0",
+        "value": "#3D181E",
         "type": "color"
       },
       "5": {
-        "value": "#FFC8D0",
+        "value": "#5C242D",
         "type": "color"
       },
       "6": {
-        "value": "#FFB5C0",
+        "value": "#7A303C",
         "type": "color"
       },
       "7": {
-        "value": "#FFA3B0",
+        "value": "#993D4A",
         "type": "color"
       },
       "8": {
-        "value": "#FF90A1",
+        "value": "#B84959",
         "type": "color"
       },
       "9": {
-        "value": "#FF7E91",
+        "value": "#D65568",
         "type": "color"
       },
       "10": {
-        "value": "#EB5D72",
+        "value": "#FF7186",
         "type": "color"
       },
       "11": {
-        "value": "#BD4B5C",
+        "value": "#FF8D9E",
         "type": "color"
       },
       "12": {
