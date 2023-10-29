@@ -362,144 +362,144 @@
     },
     "Indigo": {
       "1": {
-        "value": "#F5F4FE",
+        "value": "#05050F",
         "type": "color",
         "$extensions": {}
       },
       "2": {
-        "value": "#EEEDFE",
+        "value": "#090819",
         "type": "color",
         "$extensions": {}
       },
       "3": {
-        "value": "#E4E3FE",
+        "value": "#0E0C27",
         "type": "color",
         "$extensions": {}
       },
       "4": {
-        "value": "#D7D4FD",
+        "value": "#15123B",
         "type": "color",
         "$extensions": {}
       },
       "5": {
-        "value": "#C3BFFC",
+        "value": "#201C59",
         "type": "color",
         "$extensions": {}
       },
       "6": {
-        "value": "#AFAAFB",
+        "value": "#2A2576",
         "type": "color",
         "$extensions": {}
       },
       "7": {
-        "value": "#9B94FA",
+        "value": "#352E94",
         "type": "color",
         "$extensions": {}
       },
       "8": {
-        "value": "#877FF9",
+        "value": "#3F37B1",
         "type": "color",
         "$extensions": {}
       },
       "9": {
-        "value": "#7369F7",
+        "value": "#4A41CF",
         "type": "color",
         "$extensions": {}
       },
       "10": {
-        "value": "#5147E2",
+        "value": "#655BF7",
         "type": "color",
         "$extensions": {}
       },
       "11": {
-        "value": "#4139B6",
+        "value": "#837BF8",
         "type": "color",
         "$extensions": {}
       },
       "12": {
-        "value": "#373099",
+        "value": "#9791F9",
         "type": "color",
         "$extensions": {}
       },
       "13": {
-        "value": "#231F62",
+        "value": "#BCB8FB",
         "type": "color",
         "$extensions": {}
       },
       "14": {
-        "value": "#120F31",
+        "value": "#DEDBFD",
         "type": "color",
         "$extensions": {}
       }
     },
     "SkyBlue": {
       "1": {
-        "value": "#F3FBFF",
+        "value": "#030B0F",
         "type": "color",
         "$extensions": {}
       },
       "2": {
-        "value": "#EBF9FE",
+        "value": "#061319",
         "type": "color",
         "$extensions": {}
       },
       "3": {
-        "value": "#DFF5FE",
+        "value": "#091F28",
         "type": "color",
         "$extensions": {}
       },
       "4": {
-        "value": "#D0F0FD",
+        "value": "#0E2E3C",
         "type": "color",
         "$extensions": {}
       },
       "5": {
-        "value": "#B8E8FC",
+        "value": "#154559",
         "type": "color",
         "$extensions": {}
       },
       "6": {
-        "value": "#A0E0FC",
+        "value": "#1C5C77",
         "type": "color",
         "$extensions": {}
       },
       "7": {
-        "value": "#89D9FB",
+        "value": "#237395",
         "type": "color",
         "$extensions": {}
       },
       "8": {
-        "value": "#71D1FA",
+        "value": "#2A8AB3",
         "type": "color",
         "$extensions": {}
       },
       "9": {
-        "value": "#5AC9F9",
+        "value": "#31A0D0",
         "type": "color",
         "$extensions": {}
       },
       "10": {
-        "value": "#35B0E4",
+        "value": "#4AC4F9",
         "type": "color",
         "$extensions": {}
       },
       "11": {
-        "value": "#2B8DB8",
+        "value": "#6DD0FA",
         "type": "color",
         "$extensions": {}
       },
       "12": {
-        "value": "#24769A",
+        "value": "#85D7FB",
         "type": "color",
         "$extensions": {}
       },
       "13": {
-        "value": "#174C63",
+        "value": "#B0E5FC",
         "type": "color",
         "$extensions": {}
       },
       "14": {
-        "value": "#0C2632",
+        "value": "#D8F2FE",
         "type": "color",
         "$extensions": {}
       }
