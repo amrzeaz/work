@@ -16,8 +16,7 @@
       "Components/Menu": "enabled",
       "Components/Tooltip": "enabled",
       "Components/Tab": "source",
-      "Global/Colors-Light": "enabled",
-      "Global/Colors-Dark": "disabled"
+      "Global/Colors-Light": "enabled"
     },
     "group": "SCE",
     "$figmaCollectionId": "VariableCollectionId:98:466",
@@ -58,8 +57,7 @@
       "Components/Tooltip": "enabled",
       "Theme/Dark": "source",
       "Components/Tab": "source",
-      "Global/Colors-Light": "enabled",
-      "Global/Colors-Dark": "disabled"
+      "Global/Colors-Light": "enabled"
     },
     "group": "SCE",
     "$figmaCollectionId": "VariableCollectionId:98:466",
