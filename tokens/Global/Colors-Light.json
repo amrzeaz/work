@@ -287,6 +287,294 @@
         "type": "color",
         "$extensions": {}
       }
+    },
+    "Blue": {
+      "1": {
+        "value": "#F3F6FE",
+        "type": "color",
+        "$extensions": {}
+      },
+      "2": {
+        "value": "#EAF0FE",
+        "type": "color",
+        "$extensions": {}
+      },
+      "3": {
+        "value": "#DEE7FD",
+        "type": "color",
+        "$extensions": {}
+      },
+      "4": {
+        "value": "#CDDAFD",
+        "type": "color",
+        "$extensions": {}
+      },
+      "5": {
+        "value": "#B4C8FB",
+        "type": "color",
+        "$extensions": {}
+      },
+      "6": {
+        "value": "#9BB6FA",
+        "type": "color",
+        "$extensions": {}
+      },
+      "7": {
+        "value": "#82A3F9",
+        "type": "color",
+        "$extensions": {}
+      },
+      "8": {
+        "value": "#6991F8",
+        "type": "color",
+        "$extensions": {}
+      },
+      "9": {
+        "value": "#507EF7",
+        "type": "color",
+        "$extensions": {}
+      },
+      "10": {
+        "value": "#2B5EE1",
+        "type": "color",
+        "$extensions": {}
+      },
+      "11": {
+        "value": "#234BB5",
+        "type": "color",
+        "$extensions": {}
+      },
+      "12": {
+        "value": "#1D3F98",
+        "type": "color",
+        "$extensions": {}
+      },
+      "13": {
+        "value": "#132962",
+        "type": "color",
+        "$extensions": {}
+      },
+      "14": {
+        "value": "#091431",
+        "type": "color",
+        "$extensions": {}
+      }
+    },
+    "Indigo": {
+      "1": {
+        "value": "#F5F4FE",
+        "type": "color",
+        "$extensions": {}
+      },
+      "2": {
+        "value": "#EEEDFE",
+        "type": "color",
+        "$extensions": {}
+      },
+      "3": {
+        "value": "#E4E3FE",
+        "type": "color",
+        "$extensions": {}
+      },
+      "4": {
+        "value": "#D7D4FD",
+        "type": "color",
+        "$extensions": {}
+      },
+      "5": {
+        "value": "#C3BFFC",
+        "type": "color",
+        "$extensions": {}
+      },
+      "6": {
+        "value": "#AFAAFB",
+        "type": "color",
+        "$extensions": {}
+      },
+      "7": {
+        "value": "#9B94FA",
+        "type": "color",
+        "$extensions": {}
+      },
+      "8": {
+        "value": "#877FF9",
+        "type": "color",
+        "$extensions": {}
+      },
+      "9": {
+        "value": "#7369F7",
+        "type": "color",
+        "$extensions": {}
+      },
+      "10": {
+        "value": "#5147E2",
+        "type": "color",
+        "$extensions": {}
+      },
+      "11": {
+        "value": "#4139B6",
+        "type": "color",
+        "$extensions": {}
+      },
+      "12": {
+        "value": "#373099",
+        "type": "color",
+        "$extensions": {}
+      },
+      "13": {
+        "value": "#231F62",
+        "type": "color",
+        "$extensions": {}
+      },
+      "14": {
+        "value": "#120F31",
+        "type": "color",
+        "$extensions": {}
+      }
+    },
+    "SkyBlue": {
+      "1": {
+        "value": "#F3FBFF",
+        "type": "color",
+        "$extensions": {}
+      },
+      "2": {
+        "value": "#EBF9FE",
+        "type": "color",
+        "$extensions": {}
+      },
+      "3": {
+        "value": "#DFF5FE",
+        "type": "color",
+        "$extensions": {}
+      },
+      "4": {
+        "value": "#D0F0FD",
+        "type": "color",
+        "$extensions": {}
+      },
+      "5": {
+        "value": "#B8E8FC",
+        "type": "color",
+        "$extensions": {}
+      },
+      "6": {
+        "value": "#A0E0FC",
+        "type": "color",
+        "$extensions": {}
+      },
+      "7": {
+        "value": "#89D9FB",
+        "type": "color",
+        "$extensions": {}
+      },
+      "8": {
+        "value": "#71D1FA",
+        "type": "color",
+        "$extensions": {}
+      },
+      "9": {
+        "value": "#5AC9F9",
+        "type": "color",
+        "$extensions": {}
+      },
+      "10": {
+        "value": "#35B0E4",
+        "type": "color",
+        "$extensions": {}
+      },
+      "11": {
+        "value": "#2B8DB8",
+        "type": "color",
+        "$extensions": {}
+      },
+      "12": {
+        "value": "#24769A",
+        "type": "color",
+        "$extensions": {}
+      },
+      "13": {
+        "value": "#174C63",
+        "type": "color",
+        "$extensions": {}
+      },
+      "14": {
+        "value": "#0C2632",
+        "type": "color",
+        "$extensions": {}
+      }
+    },
+    "Cyan": {
+      "1": {
+        "value": "#F2FCFE",
+        "type": "color",
+        "$extensions": {}
+      },
+      "2": {
+        "value": "#E9FBFD",
+        "type": "color",
+        "$extensions": {}
+      },
+      "3": {
+        "value": "#DBF8FC",
+        "type": "color",
+        "$extensions": {}
+      },
+      "4": {
+        "value": "#C9F4FB",
+        "type": "color",
+        "$extensions": {}
+      },
+      "5": {
+        "value": "#AFEFF9",
+        "type": "color",
+        "$extensions": {}
+      },
+      "6": {
+        "value": "#94EAF7",
+        "type": "color",
+        "$extensions": {}
+      },
+      "7": {
+        "value": "#79E5F5",
+        "type": "color",
+        "$extensions": {}
+      },
+      "8": {
+        "value": "#5EDFF3",
+        "type": "color",
+        "$extensions": {}
+      },
+      "9": {
+        "value": "#1DC2DB",
+        "type": "color",
+        "$extensions": {}
+      },
+      "10": {
+        "value": "#1DC2DB",
+        "type": "color",
+        "$extensions": {}
+      },
+      "11": {
+        "value": "#189CB0",
+        "type": "color",
+        "$extensions": {}
+      },
+      "12": {
+        "value": "#148394",
+        "type": "color",
+        "$extensions": {}
+      },
+      "13": {
+        "value": "#0D545F",
+        "type": "color",
+        "$extensions": {}
+      },
+      "14": {
+        "value": "#062A30",
+        "type": "color",
+        "$extensions": {}
+      }
     }
   }
 }
