@@ -1,42 +1,138 @@
 {
-  "Title": {
-    "24": {
-      "value": {
-        "fontFamily": "{Cairo}",
-        "fontWeight": "{Bold}",
-        "fontSize": "{Atom-Fontsize.36}",
-        "lineHeight": "{Atom-Lineheight.36}"
+  "Typo": {
+    "BigLight": {
+      "16": {
+        "value": {
+          "fontFamily": "{Cairo}",
+          "fontWeight": "{Bold}",
+          "fontSize": "{Atom-Fontsize.16}",
+          "lineHeight": "{Atom-Lineheight.24}"
+        },
+        "type": "typography"
       },
-      "type": "typography"
-    }
-  },
-  "Subtitle": {
-    "10": {
-      "value": {
-        "fontFamily": "{Cairo}",
-        "fontWeight": "{Medium}",
-        "fontSize": "{Atom-Fontsize.10}",
-        "lineHeight": "{Atom-Lineheight.12}"
+      "18": {
+        "value": {
+          "fontFamily": "{Cairo}",
+          "fontWeight": "{Bold}",
+          "fontSize": "{Atom-Fontsize.18}",
+          "lineHeight": "{Atom-Lineheight.28}"
+        },
+        "type": "typography"
       },
-      "type": "typography"
-    },
-    "12": {
-      "value": {
-        "fontFamily": "{Cairo}",
-        "fontWeight": "{Medium}",
-        "fontSize": "{Atom-Fontsize.12}",
-        "lineHeight": "{Atom-Lineheight.16}"
+      "20": {
+        "value": {
+          "fontFamily": "{Cairo}",
+          "fontWeight": "{Bold}",
+          "fontSize": "{Atom-Fontsize.20}",
+          "lineHeight": "{Atom-Lineheight.30}"
+        },
+        "type": "typography"
       },
-      "type": "typography"
-    },
-    "14": {
-      "value": {
-        "fontFamily": "{Cairo}",
-        "fontWeight": "{Medium}",
-        "fontSize": "{Atom-Fontsize.14}",
-        "lineHeight": "{Atom-Lineheight.18}"
+      "24": {
+        "value": {
+          "fontFamily": "{Cairo}",
+          "fontWeight": "{Bold}",
+          "fontSize": "{Atom-Fontsize.36}",
+          "lineHeight": "{Atom-Lineheight.36}"
+        },
+        "type": "typography"
       },
-      "type": "typography"
+      "BigBold": {
+        "16": {
+          "value": {
+            "fontFamily": "{Cairo}",
+            "fontWeight": "{Bold}",
+            "fontSize": "{Atom-Fontsize.16}",
+            "lineHeight": "{Atom-Lineheight.24}"
+          },
+          "type": "typography"
+        },
+        "18": {
+          "value": {
+            "fontFamily": "{Cairo}",
+            "fontWeight": "{Bold}",
+            "fontSize": "{Atom-Fontsize.18}",
+            "lineHeight": "{Atom-Lineheight.28}"
+          },
+          "type": "typography"
+        },
+        "20": {
+          "value": {
+            "fontFamily": "{Cairo}",
+            "fontWeight": "{Bold}",
+            "fontSize": "{Atom-Fontsize.20}",
+            "lineHeight": "{Atom-Lineheight.30}"
+          },
+          "type": "typography"
+        },
+        "24": {
+          "value": {
+            "fontFamily": "{Cairo}",
+            "fontWeight": "{Bold}",
+            "fontSize": "{Atom-Fontsize.36}",
+            "lineHeight": "{Atom-Lineheight.36}"
+          },
+          "type": "typography"
+        }
+      },
+      "SubLight": {
+        "10": {
+          "value": {
+            "fontFamily": "{Cairo}",
+            "fontWeight": "{Medium}",
+            "fontSize": "{Atom-Fontsize.10}",
+            "lineHeight": "{Atom-Lineheight.12}"
+          },
+          "type": "typography"
+        },
+        "12": {
+          "value": {
+            "fontFamily": "{Cairo}",
+            "fontWeight": "{Medium}",
+            "fontSize": "{Atom-Fontsize.12}",
+            "lineHeight": "{Atom-Lineheight.16}"
+          },
+          "type": "typography"
+        },
+        "14": {
+          "value": {
+            "fontFamily": "{Cairo}",
+            "fontWeight": "{Medium}",
+            "fontSize": "{Atom-Fontsize.14}",
+            "lineHeight": "{Atom-Lineheight.18}"
+          },
+          "type": "typography"
+        }
+      },
+      "SubBold": {
+        "10": {
+          "value": {
+            "fontFamily": "{Cairo}",
+            "fontWeight": "{Medium}",
+            "fontSize": "{Atom-Fontsize.10}",
+            "lineHeight": "{Atom-Lineheight.12}"
+          },
+          "type": "typography"
+        },
+        "12": {
+          "value": {
+            "fontFamily": "{Cairo}",
+            "fontWeight": "{Medium}",
+            "fontSize": "{Atom-Fontsize.12}",
+            "lineHeight": "{Atom-Lineheight.16}"
+          },
+          "type": "typography"
+        },
+        "14": {
+          "value": {
+            "fontFamily": "{Cairo}",
+            "fontWeight": "{Medium}",
+            "fontSize": "{Atom-Fontsize.14}",
+            "lineHeight": "{Atom-Lineheight.18}"
+          },
+          "type": "typography"
+        }
+      }
     }
   }
 }
