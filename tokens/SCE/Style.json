@@ -134,5 +134,27 @@
         }
       }
     }
+  },
+  "Fadeout": {
+    "1": {
+      "value": "{Border.Fadeout.1}",
+      "type": "border"
+    },
+    "2": {
+      "value": "{Border.Fadeout.2}",
+      "type": "border"
+    },
+    "3": {
+      "value": "{Border.Fadeout.3}",
+      "type": "border"
+    },
+    "4": {
+      "value": "{Border.Fadeout.4}",
+      "type": "border"
+    },
+    "5": {
+      "value": "{Border.Fadeout.5}",
+      "type": "border"
+    }
   }
 }
