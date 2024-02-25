@@ -11,8 +11,9 @@
     "Atoms/Font/Weight",
     "Atoms/Font/Size",
     "Atoms/Font/LineHeight",
-    "Brand/SCE/Color/Brand",
-    "Brand/SCE/Color/Monochromatic",
-    "Brand/SCE/Color/Achromatic"
+    "SCE/Style",
+    "SCE/Color/Brand",
+    "SCE/Color/Monochromatic",
+    "SCE/Color/Achromatic"
   ]
 }

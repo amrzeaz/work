@@ -4,7 +4,6 @@
     "name": "Light",
     "$figmaStyleReferences": {},
     "selectedTokenSets": {
-      "Brand/SCE/Color/Brand": "enabled",
       "Atoms/Font/Family": "source",
       "Atoms/Font/Size": "source",
       "Atoms/Font/LineHeight": "source",
@@ -13,7 +12,12 @@
       "Atoms/Shape/Sizing": "source",
       "Atoms/Shape/Radius": "source",
       "Atoms/Shape/Border": "source",
-      "Atoms/Shape/Opacity": "source"
+      "Atoms/Shape/Opacity": "source",
+      "SCE/Color/Brand": "enabled",
+      "SCE/Color/Monochromatic": "enabled",
+      "SCE/Color/Achromatic": "enabled",
+      "Atoms/Font/Weight": "source",
+      "SCE/Style": "enabled"
     },
     "$figmaCollectionId": "VariableCollectionId:10:35624",
     "$figmaModeId": "10:2",
@@ -129,7 +133,6 @@
     "name": "Dark",
     "$figmaStyleReferences": {},
     "selectedTokenSets": {
-      "Brand/SCE/Color/Brand": "enabled",
       "Atoms/Font/Family": "source",
       "Atoms/Font/Size": "source",
       "Atoms/Font/LineHeight": "source",
@@ -138,7 +141,12 @@
       "Atoms/Shape/Sizing": "source",
       "Atoms/Shape/Radius": "source",
       "Atoms/Shape/Border": "source",
-      "Atoms/Shape/Opacity": "source"
+      "Atoms/Shape/Opacity": "source",
+      "SCE/Color/Brand": "enabled",
+      "SCE/Color/Monochromatic": "enabled",
+      "SCE/Color/Achromatic": "enabled",
+      "SCE/Style": "enabled",
+      "Atoms/Font/Weight": "source"
     },
     "group": "SCE"
   }
