@@ -1,1 +1,42 @@
-{}
+{
+  "Title": {
+    "24": {
+      "value": {
+        "fontFamily": "{Cairo}",
+        "fontWeight": "{Bold}",
+        "fontSize": "{Atom-Fontsize.36}",
+        "lineHeight": "{Atom-Lineheight.36}"
+      },
+      "type": "typography"
+    }
+  },
+  "Subtitle": {
+    "10": {
+      "value": {
+        "fontFamily": "{Cairo}",
+        "fontWeight": "{Medium}",
+        "fontSize": "{Atom-Fontsize.10}",
+        "lineHeight": "{Atom-Lineheight.12}"
+      },
+      "type": "typography"
+    },
+    "12": {
+      "value": {
+        "fontFamily": "{Cairo}",
+        "fontWeight": "{Medium}",
+        "fontSize": "{Atom-Fontsize.12}",
+        "lineHeight": "{Atom-Lineheight.16}"
+      },
+      "type": "typography"
+    },
+    "14": {
+      "value": {
+        "fontFamily": "{Cairo}",
+        "fontWeight": "{Medium}",
+        "fontSize": "{Atom-Fontsize.14}",
+        "lineHeight": "{Atom-Lineheight.18}"
+      },
+      "type": "typography"
+    }
+  }
+}
