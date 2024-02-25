@@ -108,7 +108,7 @@
         "10": {
           "value": {
             "fontFamily": "{Cairo}",
-            "fontWeight": "{Medium}",
+            "fontWeight": "{Bold}",
             "fontSize": "{Atom-Fontsize.10}",
             "lineHeight": "{Atom-Lineheight.12}"
           },
@@ -117,7 +117,7 @@
         "12": {
           "value": {
             "fontFamily": "{Cairo}",
-            "fontWeight": "{Medium}",
+            "fontWeight": "{Bold}",
             "fontSize": "{Atom-Fontsize.12}",
             "lineHeight": "{Atom-Lineheight.16}"
           },
@@ -126,7 +126,7 @@
         "14": {
           "value": {
             "fontFamily": "{Cairo}",
-            "fontWeight": "{Medium}",
+            "fontWeight": "{Bold}",
             "fontSize": "{Atom-Fontsize.14}",
             "lineHeight": "{Atom-Lineheight.18}"
           },
@@ -155,6 +155,168 @@
     "5": {
       "value": "{Border.Fadeout.5}",
       "type": "border"
+    }
+  },
+  "Numbers": {
+    "1": {
+      "value": "1",
+      "type": "number"
+    },
+    "2": {
+      "value": "2",
+      "type": "number"
+    },
+    "4": {
+      "value": "4",
+      "type": "number"
+    },
+    "6": {
+      "value": "6",
+      "type": "number"
+    },
+    "8": {
+      "value": "8",
+      "type": "number"
+    },
+    "10": {
+      "value": "10",
+      "type": "number"
+    },
+    "12": {
+      "value": "12",
+      "type": "number"
+    },
+    "14": {
+      "value": "14",
+      "type": "number"
+    },
+    "16": {
+      "value": "16",
+      "type": "number"
+    },
+    "18": {
+      "value": "18",
+      "type": "number"
+    },
+    "20": {
+      "value": "20",
+      "type": "number"
+    },
+    "22": {
+      "value": "22",
+      "type": "number"
+    },
+    "24": {
+      "value": "24",
+      "type": "number"
+    },
+    "28": {
+      "value": "28",
+      "type": "number"
+    },
+    "30": {
+      "value": "30",
+      "type": "number"
+    },
+    "32": {
+      "value": "32",
+      "type": "number"
+    },
+    "34": {
+      "value": "34",
+      "type": "number"
+    },
+    "36": {
+      "value": "36",
+      "type": "number"
+    },
+    "38": {
+      "value": "38",
+      "type": "number"
+    },
+    "40": {
+      "value": "40",
+      "type": "number"
+    },
+    "42": {
+      "value": "42",
+      "type": "number"
+    },
+    "44": {
+      "value": "44",
+      "type": "number"
+    },
+    "46": {
+      "value": "46",
+      "type": "number"
+    },
+    "48": {
+      "value": "48",
+      "type": "number"
+    },
+    "50": {
+      "value": "50",
+      "type": "number"
+    },
+    "52": {
+      "value": "52",
+      "type": "number"
+    },
+    "54": {
+      "value": "54",
+      "type": "number"
+    },
+    "56": {
+      "value": "56",
+      "type": "number"
+    },
+    "58": {
+      "value": "58",
+      "type": "number"
+    },
+    "60": {
+      "value": "60",
+      "type": "number"
+    },
+    "62": {
+      "value": "62",
+      "type": "number"
+    },
+    "64": {
+      "value": "64",
+      "type": "number"
+    },
+    "66": {
+      "value": "66",
+      "type": "number"
+    },
+    "68": {
+      "value": "68",
+      "type": "number"
+    },
+    "70": {
+      "value": "70",
+      "type": "number"
+    },
+    "72": {
+      "value": "72",
+      "type": "number"
+    },
+    "74": {
+      "value": "74",
+      "type": "number"
+    },
+    "76": {
+      "value": "76",
+      "type": "number"
+    },
+    "78": {
+      "value": "78",
+      "type": "number"
+    },
+    "80": {
+      "value": "80",
+      "type": "number"
     }
   }
 }
