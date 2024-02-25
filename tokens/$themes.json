@@ -25,8 +25,6 @@
       "1": "473ce8ddebd291286ae7e97786612893fce0302e",
       "3": "b9a85faadbfaf7bef4b1611da2bf383e51d21bd2",
       "6": "424e69ae41b5f13df09cc9c04ff9aa01d6fda06d",
-      "10": "472a9461ea3cb77ac7ff3e2d844207223ebc76f5",
-      "12": "cd7d3c0970db543e7010e4c5dcd9fdad3cb7cccc",
       "Gray.Surface.20": "d14ae2f679e83730f7a75bd8a81486666a973006",
       "Gray.Surface.40": "80fca8b6b1982291344a1b5442d6e64495895d0a",
       "Gray.Surface.60": "c0828509fe7f2f7c2d3f0a92eb44a1d77b08bb24",
@@ -124,7 +122,9 @@
       "Violet.Surface.100": "94569ac45389efa10f199f1dee765b59fced8d43",
       "Violet.Surface.200": "aaa2412b86ae288dd739970d5445565c29900b39",
       "Violet.Surface.300": "bc39133ad118fda52dd60b648b8b0656bf2d7eb2",
-      "Violet.Surface.400": "67cdfd44ef7b40aabd5875628917cd2f22c439e9"
+      "Violet.Surface.400": "67cdfd44ef7b40aabd5875628917cd2f22c439e9",
+      "Atom-Fontsize.10": "472a9461ea3cb77ac7ff3e2d844207223ebc76f5",
+      "Atom-Fontsize.12": "cd7d3c0970db543e7010e4c5dcd9fdad3cb7cccc"
     },
     "group": "SCE"
   },

@@ -1,68 +1,4 @@
 {
-  "10": {
-    "value": "14",
-    "type": "lineHeights"
-  },
-  "11": {
-    "value": "{10}",
-    "type": "lineHeights"
-  },
-  "12": {
-    "value": "16",
-    "type": "lineHeights"
-  },
-  "14": {
-    "value": "14",
-    "type": "lineHeights"
-  },
-  "16": {
-    "value": "16",
-    "type": "lineHeights"
-  },
-  "18": {
-    "value": "18",
-    "type": "lineHeights"
-  },
-  "20": {
-    "value": "20",
-    "type": "lineHeights"
-  },
-  "22": {
-    "value": "22",
-    "type": "lineHeights"
-  },
-  "24": {
-    "value": "24",
-    "type": "lineHeights"
-  },
-  "26": {
-    "value": "26",
-    "type": "lineHeights"
-  },
-  "28": {
-    "value": "28",
-    "type": "lineHeights"
-  },
-  "30": {
-    "value": "30",
-    "type": "lineHeights"
-  },
-  "32": {
-    "value": "32",
-    "type": "lineHeights"
-  },
-  "34": {
-    "value": "34",
-    "type": "lineHeights"
-  },
-  "36": {
-    "value": "36",
-    "type": "lineHeights"
-  },
-  "38": {
-    "value": "38",
-    "type": "lineHeights"
-  },
   "40": {
     "value": "40",
     "type": "lineHeights"
@@ -186,5 +122,71 @@
   "100": {
     "value": "100",
     "type": "lineHeights"
+  },
+  "Atom-Lineheight": {
+    "10": {
+      "value": "14",
+      "type": "lineHeights"
+    },
+    "11": {
+      "value": "{Atom-Fontsize.10}",
+      "type": "lineHeights"
+    },
+    "12": {
+      "value": "16",
+      "type": "lineHeights"
+    },
+    "14": {
+      "value": "14",
+      "type": "lineHeights"
+    },
+    "16": {
+      "value": "16",
+      "type": "lineHeights"
+    },
+    "18": {
+      "value": "18",
+      "type": "lineHeights"
+    },
+    "20": {
+      "value": "20",
+      "type": "lineHeights"
+    },
+    "22": {
+      "value": "22",
+      "type": "lineHeights"
+    },
+    "24": {
+      "value": "24",
+      "type": "lineHeights"
+    },
+    "26": {
+      "value": "26",
+      "type": "lineHeights"
+    },
+    "28": {
+      "value": "28",
+      "type": "lineHeights"
+    },
+    "30": {
+      "value": "30",
+      "type": "lineHeights"
+    },
+    "32": {
+      "value": "32",
+      "type": "lineHeights"
+    },
+    "34": {
+      "value": "34",
+      "type": "lineHeights"
+    },
+    "36": {
+      "value": "36",
+      "type": "lineHeights"
+    },
+    "38": {
+      "value": "38",
+      "type": "lineHeights"
+    }
   }
 }
