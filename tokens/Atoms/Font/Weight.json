@@ -1,6 +1,14 @@
 {
-  "Cairo": {
-    "value": "Cairo",
-    "type": "fontFamilies"
+  "Regular": {
+    "value": "Regular",
+    "type": "fontWeights"
+  },
+  "Medium": {
+    "value": "Medium",
+    "type": "fontWeights"
+  },
+  "Bold": {
+    "value": "Bold",
+    "type": "fontWeights"
   }
 }

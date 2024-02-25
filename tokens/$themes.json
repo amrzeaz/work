@@ -6,11 +6,9 @@
     "selectedTokenSets": {
       "Brand/SCE/Color/Brand": "enabled",
       "Atoms/Font/Family": "source",
-      "Atoms/Font/Weight": "disabled",
       "Atoms/Font/Size": "source",
       "Atoms/Font/LineHeight": "source",
       "Atoms/Color/Light": "source",
-      "Atoms/Color/Dark": "disabled",
       "Atoms/Shape/Spacing": "source",
       "Atoms/Shape/Sizing": "source",
       "Atoms/Shape/Radius": "source",
@@ -133,10 +131,8 @@
     "selectedTokenSets": {
       "Brand/SCE/Color/Brand": "enabled",
       "Atoms/Font/Family": "source",
-      "Atoms/Font/Weight": "disabled",
       "Atoms/Font/Size": "source",
       "Atoms/Font/LineHeight": "source",
-      "Atoms/Color/Light": "disabled",
       "Atoms/Color/Dark": "source",
       "Atoms/Shape/Spacing": "source",
       "Atoms/Shape/Sizing": "source",
