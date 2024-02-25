@@ -1,1 +1,12 @@
-{}
+{
+  "Title": {
+    "24": {
+      "value": {
+        "fontFamily": "{Cairo}",
+        "fontWeight": "Bold",
+        "fontSize": "{24}"
+      },
+      "type": "typography"
+    }
+  }
+}

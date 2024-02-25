@@ -1,1 +1,46 @@
-{}
+{
+  "Border": {
+    "Fadeout": {
+      "1": {
+        "value": {
+          "color": "{Metal.1}",
+          "width": "1",
+          "style": "Solid"
+        },
+        "type": "border"
+      },
+      "2": {
+        "value": {
+          "color": "{Metal.2}",
+          "width": "1",
+          "style": "Solid"
+        },
+        "type": "border"
+      },
+      "3": {
+        "value": {
+          "color": "{Metal.3}",
+          "width": "1",
+          "style": "Solid"
+        },
+        "type": "border"
+      },
+      "4": {
+        "value": {
+          "color": "{Metal.4}",
+          "width": "1",
+          "style": "Solid"
+        },
+        "type": "border"
+      },
+      "5": {
+        "value": {
+          "color": "{Metal.5}",
+          "width": "1",
+          "style": "Solid"
+        },
+        "type": "border"
+      }
+    }
+  }
+}
