@@ -1,0 +1,110 @@
+{
+  "1": {
+    "value": "1",
+    "type": "borderRadius"
+  },
+  "2": {
+    "value": "2",
+    "type": "borderRadius"
+  },
+  "3": {
+    "value": "3",
+    "type": "borderRadius"
+  },
+  "4": {
+    "value": "4",
+    "type": "borderRadius"
+  },
+  "6": {
+    "value": "6",
+    "type": "borderRadius"
+  },
+  "8": {
+    "value": "8",
+    "type": "borderRadius"
+  },
+  "10": {
+    "value": "10",
+    "type": "borderRadius"
+  },
+  "12": {
+    "value": "12",
+    "type": "borderRadius"
+  },
+  "14": {
+    "value": "14",
+    "type": "borderRadius"
+  },
+  "16": {
+    "value": "16",
+    "type": "borderRadius"
+  },
+  "18": {
+    "value": "18",
+    "type": "borderRadius"
+  },
+  "20": {
+    "value": "20",
+    "type": "borderRadius"
+  },
+  "22": {
+    "value": "22",
+    "type": "borderRadius"
+  },
+  "24": {
+    "value": "24",
+    "type": "borderRadius"
+  },
+  "26": {
+    "value": "26",
+    "type": "borderRadius"
+  },
+  "28": {
+    "value": "28",
+    "type": "borderRadius"
+  },
+  "30": {
+    "value": "30",
+    "type": "borderRadius"
+  },
+  "32": {
+    "value": "32",
+    "type": "borderRadius"
+  },
+  "34": {
+    "value": "34",
+    "type": "borderRadius"
+  },
+  "36": {
+    "value": "36",
+    "type": "borderRadius"
+  },
+  "38": {
+    "value": "38",
+    "type": "borderRadius"
+  },
+  "40": {
+    "value": "40",
+    "type": "borderRadius"
+  },
+  "42": {
+    "value": "42",
+    "type": "borderRadius"
+  },
+  "44": {
+    "value": "44",
+    "type": "borderRadius"
+  },
+  "48": {
+    "value": "48",
+    "type": "borderRadius"
+  },
+  "50": {
+    "value": "50",
+    "type": "borderRadius"
+  },
+  "None": {
+    "value": "0",
+    "type": "borderRadius"
+  }
+}

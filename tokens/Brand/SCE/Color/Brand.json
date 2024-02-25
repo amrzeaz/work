@@ -1,0 +1,136 @@
+{
+  "SCE": {
+    "Surface": {
+      "20": {
+        "value": "{SCE.Main.1}",
+        "type": "color"
+      },
+      "40": {
+        "value": "{SCE.Main.2}",
+        "type": "color"
+      },
+      "60": {
+        "value": "{SCE.Main.3}",
+        "type": "color"
+      },
+      "80": {
+        "value": "{SCE.Main.4}",
+        "type": "color"
+      },
+      "100": {
+        "value": "{SCE.Main.5}",
+        "type": "color"
+      },
+      "200": {
+        "value": "{SCE.Main.9}",
+        "type": "color"
+      },
+      "300": {
+        "value": "{SCE.Main.10}",
+        "type": "color"
+      },
+      "400": {
+        "value": "{SCE.Main.11}",
+        "type": "color"
+      }
+    },
+    "Bold": {
+      "500": {
+        "value": "{SCE.Main.12}",
+        "type": "color"
+      },
+      "600": {
+        "value": "{SCE.Main.13}",
+        "type": "color"
+      },
+      "700": {
+        "value": "{SCE.Main.14}",
+        "type": "color"
+      }
+    },
+    "Hover": {
+      "800": {
+        "value": "{SCE.Main.6}",
+        "type": "color"
+      }
+    },
+    "Main": {
+      "900": {
+        "value": "{SCE.Main.7}",
+        "type": "color"
+      }
+    },
+    "Pressed": {
+      "1000": {
+        "value": "{SCE.Main.8}",
+        "type": "color"
+      }
+    }
+  },
+  "Secondary": {
+    "Surface": {
+      "20": {
+        "value": "{SCE.Secondary.1}",
+        "type": "color"
+      },
+      "40": {
+        "value": "{SCE.Secondary.2}",
+        "type": "color"
+      },
+      "60": {
+        "value": "{SCE.Secondary.3}",
+        "type": "color"
+      },
+      "80": {
+        "value": "{SCE.Secondary.4}",
+        "type": "color"
+      }
+    },
+    "Fadeout": {
+      "100": {
+        "value": "{SCE.Secondary.5}",
+        "type": "color"
+      },
+      "200": {
+        "value": "{SCE.Secondary.6}",
+        "type": "color"
+      },
+      "300": {
+        "value": "{SCE.Secondary.7}",
+        "type": "color"
+      },
+      "400": {
+        "value": "{SCE.Secondary.8}",
+        "type": "color"
+      }
+    },
+    "Subhead": {
+      "500": {
+        "value": "{SCE.Secondary.9}",
+        "type": "color"
+      },
+      "600": {
+        "value": "{SCE.Secondary.10}",
+        "type": "color"
+      },
+      "700": {
+        "value": "{SCE.Secondary.11}",
+        "type": "color"
+      }
+    },
+    "Head": {
+      "800": {
+        "value": "{SCE.Secondary.12}",
+        "type": "color"
+      },
+      "900": {
+        "value": "{SCE.Secondary.13}",
+        "type": "color"
+      },
+      "1000": {
+        "value": "{SCE.Secondary.14}",
+        "type": "color"
+      }
+    }
+  }
+}

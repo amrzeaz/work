@@ -1,0 +1,102 @@
+{
+  "Metal": {
+    "Bold": {
+      "1000": {
+        "value": "{Metal.14}",
+        "type": "color"
+      },
+      "White": {
+        "value": "#ffffff",
+        "type": "color"
+      }
+    },
+    "Text": {
+      "300": {
+        "value": "{Metal.7}",
+        "type": "color"
+      },
+      "600": {
+        "value": "{Metal.10}",
+        "type": "color"
+      },
+      "800": {
+        "value": "{Metal.12}",
+        "type": "color"
+      }
+    },
+    "Fadeout": {
+      "100": {
+        "value": "{Metal.5}",
+        "type": "color"
+      }
+    },
+    "Surface": {
+      "20": {
+        "value": "{Metal.1}",
+        "type": "color"
+      },
+      "40": {
+        "value": "{Metal.2}",
+        "type": "color"
+      },
+      "60": {
+        "value": "{Metal.3}",
+        "type": "color"
+      },
+      "80": {
+        "value": "{Metal.4}",
+        "type": "color"
+      }
+    }
+  },
+  "Brand Secondary": {
+    "Bold": {
+      "1000": {
+        "value": "{SCE.Secondary.14}",
+        "type": "color"
+      },
+      "White": {
+        "value": "#ffffff",
+        "type": "color"
+      }
+    },
+    "Text": {
+      "300": {
+        "value": "{SCE.Secondary.7}",
+        "type": "color"
+      },
+      "600": {
+        "value": "{SCE.Secondary.10}",
+        "type": "color"
+      },
+      "800": {
+        "value": "{SCE.Secondary.12}",
+        "type": "color"
+      }
+    },
+    "Fadeout": {
+      "100": {
+        "value": "{SCE.Secondary.5}",
+        "type": "color"
+      }
+    },
+    "Surface": {
+      "20": {
+        "value": "{SCE.Secondary.1}",
+        "type": "color"
+      },
+      "40": {
+        "value": "{SCE.Secondary.2}",
+        "type": "color"
+      },
+      "60": {
+        "value": "{SCE.Secondary.3}",
+        "type": "color"
+      },
+      "80": {
+        "value": "{SCE.Secondary.4}",
+        "type": "color"
+      }
+    }
+  }
+}

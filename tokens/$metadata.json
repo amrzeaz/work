@@ -1,19 +1,18 @@
 {
   "tokenSetOrder": [
-    "Global/Colors-Light",
-    "Global/Colors-Dark",
-    "Theme/Light",
-    "Theme/Dark",
-    "Semantic/Dimension",
-    "Semantic/Color",
-    "Semantic/Typography",
-    "Semantic/Effect",
-    "Components/Button",
-    "Components/Input",
-    "Components/List",
-    "Components/Breadcrumb",
-    "Components/Menu",
-    "Components/Tab",
-    "Components/Tooltip"
+    "Atoms/Spacing",
+    "Atoms/Sizing",
+    "Atoms/Color-Light",
+    "Atoms/Color-Dark",
+    "Atoms/Border",
+    "Atoms/Border-Radius",
+    "Atoms/Opacity",
+    "Atoms/Font-Family",
+    "Atoms/Typography",
+    "Atoms/Font-Size",
+    "Atoms/Line-Height",
+    "Brand/SCE/Color/Brand",
+    "Brand/SCE/Color/Monochromatic",
+    "Brand/SCE/Color/Achromatic"
   ]
 }
