@@ -345,6 +345,10 @@
         "1000": {
           "value": "{Metal.14}",
           "type": "color"
+        },
+        "White": {
+          "value": "{Metal.Bold.White}",
+          "type": "color"
         }
       },
       "Text": {
