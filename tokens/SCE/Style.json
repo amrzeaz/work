@@ -99,7 +99,7 @@
             "fontFamily": "{Cairo}",
             "fontWeight": "{Medium}",
             "fontSize": "{Atom-Fontsize.14}",
-            "lineHeight": "{Atom-Lineheight.18}"
+            "lineHeight": "{Atom-Lineheight.20}"
           },
           "type": "typography"
         }
@@ -128,7 +128,7 @@
             "fontFamily": "{Cairo}",
             "fontWeight": "{Bold}",
             "fontSize": "{Atom-Fontsize.14}",
-            "lineHeight": "{Atom-Lineheight.18}"
+            "lineHeight": "{Atom-Lineheight.20}"
           },
           "type": "typography"
         }
