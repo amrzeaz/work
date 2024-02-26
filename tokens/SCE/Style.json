@@ -4,7 +4,7 @@
       "16": {
         "value": {
           "fontFamily": "{Cairo}",
-          "fontWeight": "{Bold}",
+          "fontWeight": "{SemiBold}",
           "fontSize": "{Atom-Fontsize.16}",
           "lineHeight": "{Atom-Lineheight.24}"
         },
@@ -13,7 +13,7 @@
       "18": {
         "value": {
           "fontFamily": "{Cairo}",
-          "fontWeight": "{Bold}",
+          "fontWeight": "{SemiBold}",
           "fontSize": "{Atom-Fontsize.18}",
           "lineHeight": "{Atom-Lineheight.28}"
         },
@@ -22,7 +22,7 @@
       "20": {
         "value": {
           "fontFamily": "{Cairo}",
-          "fontWeight": "{Bold}",
+          "fontWeight": "{SemiBold}",
           "fontSize": "{Atom-Fontsize.20}",
           "lineHeight": "{Atom-Lineheight.30}"
         },
@@ -31,8 +31,8 @@
       "24": {
         "value": {
           "fontFamily": "{Cairo}",
-          "fontWeight": "{Bold}",
-          "fontSize": "{Atom-Fontsize.36}",
+          "fontWeight": "{SemiBold}",
+          "fontSize": "{Atom-Fontsize.24}",
           "lineHeight": "{Atom-Lineheight.36}"
         },
         "type": "typography"
@@ -70,7 +70,7 @@
         "value": {
           "fontFamily": "{Cairo}",
           "fontWeight": "{Bold}",
-          "fontSize": "{Atom-Fontsize.36}",
+          "fontSize": "{Atom-Fontsize.24}",
           "lineHeight": "{Atom-Lineheight.36}"
         },
         "type": "typography"
@@ -80,7 +80,7 @@
       "10": {
         "value": {
           "fontFamily": "{Cairo}",
-          "fontWeight": "{Medium}",
+          "fontWeight": "{SemiBold}",
           "fontSize": "{Atom-Fontsize.10}",
           "lineHeight": "{Atom-Lineheight.12}"
         },
@@ -89,7 +89,7 @@
       "12": {
         "value": {
           "fontFamily": "{Cairo}",
-          "fontWeight": "{Medium}",
+          "fontWeight": "{SemiBold}",
           "fontSize": "{Atom-Fontsize.12}",
           "lineHeight": "{Atom-Lineheight.16}"
         },
@@ -98,7 +98,7 @@
       "14": {
         "value": {
           "fontFamily": "{Cairo}",
-          "fontWeight": "{Medium}",
+          "fontWeight": "{SemiBold}",
           "fontSize": "{Atom-Fontsize.14}",
           "lineHeight": "{Atom-Lineheight.20}"
         },
