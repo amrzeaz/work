@@ -136,25 +136,45 @@
     }
   },
   "Border": {
-    "1": {
-      "value": "{Border.Fadeout.1}",
-      "type": "border"
+    "Gray": {
+      "1": {
+        "value": "{Border.Fadeout.1}",
+        "type": "border"
+      },
+      "2": {
+        "value": "{Border.Fadeout.2}",
+        "type": "border"
+      },
+      "3": {
+        "value": "{Border.Fadeout.3}",
+        "type": "border"
+      },
+      "4": {
+        "value": "{Border.Fadeout.4}",
+        "type": "border"
+      },
+      "5": {
+        "value": "{Border.Fadeout.5}",
+        "type": "border"
+      }
     },
-    "2": {
-      "value": "{Border.Fadeout.2}",
-      "type": "border"
-    },
-    "3": {
-      "value": "{Border.Fadeout.3}",
-      "type": "border"
-    },
-    "4": {
-      "value": "{Border.Fadeout.4}",
-      "type": "border"
-    },
-    "5": {
-      "value": "{Border.Fadeout.5}",
-      "type": "border"
+    "SCE": {
+      "small": {
+        "value": {
+          "width": "1.2",
+          "style": "solid",
+          "color": "{Color.SCE.Pressed.1000}"
+        },
+        "type": "border"
+      },
+      "small-white": {
+        "value": {
+          "width": "1.2",
+          "style": "solid",
+          "color": "{Metal.Bold.White}"
+        },
+        "type": "border"
+      }
     }
   },
   "Numbers": {
