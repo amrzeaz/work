@@ -1,7 +1,6 @@
 {
   "tokenSetOrder": [
     "Atoms/Color/Light",
-    "Atoms/Color/Dark",
     "Atoms/Shape/Spacing",
     "Atoms/Shape/Sizing",
     "Atoms/Shape/Radius",
@@ -11,9 +10,6 @@
     "Atoms/Font/Weight",
     "Atoms/Font/Size",
     "Atoms/Font/LineHeight",
-    "SCE/Style",
-    "SCE/Color/Brand",
-    "SCE/Color/Monochromatic",
-    "SCE/Color/Achromatic"
+    "SCE/Style"
   ]
 }
