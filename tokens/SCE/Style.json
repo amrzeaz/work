@@ -135,7 +135,7 @@
       }
     }
   },
-  "Fadeout": {
+  "Border": {
     "1": {
       "value": "{Border.Fadeout.1}",
       "type": "border"
@@ -317,6 +317,54 @@
     "80": {
       "value": "80",
       "type": "number"
+    }
+  },
+  "Color": {
+    "Metal": {
+      "Bold": {
+        "1000": {
+          "value": "{Metal.14}",
+          "type": "color"
+        }
+      },
+      "Text": {
+        "300": {
+          "value": "{Metal.7}",
+          "type": "color"
+        },
+        "600": {
+          "value": "{Metal.10}",
+          "type": "color"
+        },
+        "800": {
+          "value": "{Metal.12}",
+          "type": "color"
+        }
+      },
+      "Fadeout": {
+        "100": {
+          "value": "{Metal.5}",
+          "type": "color"
+        }
+      },
+      "Surface": {
+        "20": {
+          "value": "{Metal.1}",
+          "type": "color"
+        },
+        "40": {
+          "value": "{Metal.2}",
+          "type": "color"
+        },
+        "60": {
+          "value": "{Metal.3}",
+          "type": "color"
+        },
+        "80": {
+          "value": "{Metal.4}",
+          "type": "color"
+        }
+      }
     }
   }
 }
