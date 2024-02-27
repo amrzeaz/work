@@ -528,7 +528,7 @@
       },
       "Hover": {
         "800": {
-          "value": "{Red.11}",
+          "value": "{Red.9}",
           "type": "color"
         }
       },
@@ -541,6 +541,142 @@
       "Pressed": {
         "1000": {
           "value": "{Red.11}",
+          "type": "color"
+        }
+      }
+    },
+    "Blue": {
+      "Surface": {
+        "20": {
+          "value": "{Blue.1}",
+          "type": "color"
+        },
+        "40": {
+          "value": "{Blue.2}",
+          "type": "color"
+        },
+        "60": {
+          "value": "{Blue.3}",
+          "type": "color"
+        },
+        "80": {
+          "value": "{Blue.4}",
+          "type": "color"
+        },
+        "100": {
+          "value": "{Blue.5}",
+          "type": "color"
+        },
+        "200": {
+          "value": "{Blue.6}",
+          "type": "color"
+        },
+        "300": {
+          "value": "{Blue.7}",
+          "type": "color"
+        },
+        "400": {
+          "value": "{Blue.8}",
+          "type": "color"
+        }
+      },
+      "Bold": {
+        "500": {
+          "value": "{Blue.12}",
+          "type": "color"
+        },
+        "600": {
+          "value": "{Blue.13}",
+          "type": "color"
+        },
+        "700": {
+          "value": "{Blue.14}",
+          "type": "color"
+        }
+      },
+      "Hover": {
+        "800": {
+          "value": "{Blue.9}",
+          "type": "color"
+        }
+      },
+      "Main": {
+        "900": {
+          "value": "{Blue.10}",
+          "type": "color"
+        }
+      },
+      "Pressed": {
+        "1000": {
+          "value": "{Blue.11}",
+          "type": "color"
+        }
+      }
+    },
+    "Green": {
+      "Surface": {
+        "20": {
+          "value": "{Green.1}",
+          "type": "color"
+        },
+        "40": {
+          "value": "{Green.2}",
+          "type": "color"
+        },
+        "60": {
+          "value": "{Green.3}",
+          "type": "color"
+        },
+        "80": {
+          "value": "{Green.4}",
+          "type": "color"
+        },
+        "100": {
+          "value": "{Green.5}",
+          "type": "color"
+        },
+        "200": {
+          "value": "{Green.6}",
+          "type": "color"
+        },
+        "300": {
+          "value": "{Green.7}",
+          "type": "color"
+        },
+        "400": {
+          "value": "{Green.8}",
+          "type": "color"
+        }
+      },
+      "Bold": {
+        "500": {
+          "value": "{Green.12}",
+          "type": "color"
+        },
+        "600": {
+          "value": "{Green.13}",
+          "type": "color"
+        },
+        "700": {
+          "value": "{Green.14}",
+          "type": "color"
+        }
+      },
+      "Hover": {
+        "800": {
+          "value": "{Green.9}",
+          "type": "color"
+        }
+      },
+      "Main": {
+        "900": {
+          "value": "{Green.10}",
+          "type": "color"
+        }
+      },
+      "Pressed": {
+        "1000": {
+          "value": "{Green.11}",
           "type": "color"
         }
       }
