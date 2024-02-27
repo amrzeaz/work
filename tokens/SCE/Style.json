@@ -81,6 +81,15 @@
       }
     },
     "SubLight": {
+      "8": {
+        "value": {
+          "fontFamily": "{Cairo}",
+          "fontWeight": "{SemiBold}",
+          "fontSize": "{Atom-Fontsize.8}",
+          "lineHeight": "{Atom-Lineheight.10}"
+        },
+        "type": "typography"
+      },
       "10": {
         "value": {
           "fontFamily": "{Cairo}",
@@ -110,6 +119,15 @@
       }
     },
     "SubBold": {
+      "8": {
+        "value": {
+          "fontFamily": "{Cairo}",
+          "fontWeight": "{Bold}",
+          "fontSize": "{Atom-Fontsize.8}",
+          "lineHeight": "{Atom-Lineheight.10}"
+        },
+        "type": "typography"
+      },
       "10": {
         "value": {
           "fontFamily": "{Cairo}",
