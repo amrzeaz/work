@@ -155,6 +155,44 @@
         },
         "type": "typography"
       }
+    },
+    "SubLight-Paragraph": {
+      "8": {
+        "value": {
+          "fontFamily": "{Cairo}",
+          "fontWeight": "{SemiBold}",
+          "fontSize": "{Atom-Fontsize.8}",
+          "lineHeight": "{Atom-Lineheight.16}"
+        },
+        "type": "typography"
+      },
+      "10": {
+        "value": {
+          "fontFamily": "{Cairo}",
+          "fontWeight": "{SemiBold}",
+          "fontSize": "{Atom-Fontsize.10}",
+          "lineHeight": "{Atom-Lineheight.20}"
+        },
+        "type": "typography"
+      },
+      "12": {
+        "value": {
+          "fontFamily": "{Cairo}",
+          "fontWeight": "{SemiBold}",
+          "fontSize": "{Atom-Fontsize.12}",
+          "lineHeight": "{Atom-Lineheight.22}"
+        },
+        "type": "typography"
+      },
+      "14": {
+        "value": {
+          "fontFamily": "{Cairo}",
+          "fontWeight": "{SemiBold}",
+          "fontSize": "{Atom-Fontsize.14}",
+          "lineHeight": "{Atom-Lineheight.28}"
+        },
+        "type": "typography"
+      }
     }
   },
   "Border": {
