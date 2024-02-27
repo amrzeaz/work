@@ -392,6 +392,21 @@
           "value": "{Metal.4}",
           "type": "color"
         }
+      },
+      "Surface-opacity": {
+        "input": {
+          "value": "{Metal.1}",
+          "type": "color",
+          "$extensions": {
+            "studio.tokens": {
+              "modify": {
+                "type": "alpha",
+                "value": "0.64",
+                "space": "lch"
+              }
+            }
+          }
+        }
       }
     },
     "SCE": {
