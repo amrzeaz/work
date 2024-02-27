@@ -1,4 +1,8 @@
 {
+  "25": {
+    "value": "{25}",
+    "type": "opacity"
+  },
   "Typo": {
     "BigLight": {
       "16": {
@@ -129,7 +133,7 @@
           "fontFamily": "{Cairo}",
           "fontWeight": "{Bold}",
           "fontSize": "{Atom-Fontsize.14}",
-          "lineHeight": "{Atom-Lineheight.20}"
+          "lineHeight": "{Atom-Lineheight.22}"
         },
         "type": "typography"
       }
@@ -457,6 +461,74 @@
           "type": "color"
         }
       }
+    },
+    "Red": {
+      "Surface": {
+        "20": {
+          "value": "{Red.1}",
+          "type": "color"
+        },
+        "40": {
+          "value": "{Red.2}",
+          "type": "color"
+        },
+        "60": {
+          "value": "{Red.3}",
+          "type": "color"
+        },
+        "80": {
+          "value": "{Red.4}",
+          "type": "color"
+        },
+        "100": {
+          "value": "{Red.5}",
+          "type": "color"
+        },
+        "200": {
+          "value": "{Red.6}",
+          "type": "color"
+        },
+        "300": {
+          "value": "{Red.7}",
+          "type": "color"
+        },
+        "400": {
+          "value": "{Red.8}",
+          "type": "color"
+        }
+      },
+      "Bold": {
+        "500": {
+          "value": "{Red.12}",
+          "type": "color"
+        },
+        "600": {
+          "value": "{Red.13}",
+          "type": "color"
+        },
+        "700": {
+          "value": "{Red.14}",
+          "type": "color"
+        }
+      },
+      "Hover": {
+        "800": {
+          "value": "{Red.11}",
+          "type": "color"
+        }
+      },
+      "Main": {
+        "900": {
+          "value": "{Red.10}",
+          "type": "color"
+        }
+      },
+      "Pressed": {
+        "1000": {
+          "value": "{Red.11}",
+          "type": "color"
+        }
+      }
     }
   },
   "Radius": {
@@ -526,5 +598,9 @@
       "value": "https://images.unsplash.com/photo-1682686578842-00ba49b0a71a?q=80&w=1375&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDF8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
       "type": "asset"
     }
+  },
+  "16t": {
+    "value": "{16t}",
+    "type": "opacity"
   }
 }
