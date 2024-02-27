@@ -162,7 +162,7 @@
           "fontFamily": "{Cairo}",
           "fontWeight": "{SemiBold}",
           "fontSize": "{Atom-Fontsize.8}",
-          "lineHeight": "{Atom-Lineheight.16}"
+          "lineHeight": "{Atom-Lineheight.18}"
         },
         "type": "typography"
       },
@@ -171,7 +171,7 @@
           "fontFamily": "{Cairo}",
           "fontWeight": "{SemiBold}",
           "fontSize": "{Atom-Fontsize.10}",
-          "lineHeight": "{Atom-Lineheight.20}"
+          "lineHeight": "{Atom-Lineheight.22}"
         },
         "type": "typography"
       },
@@ -180,7 +180,7 @@
           "fontFamily": "{Cairo}",
           "fontWeight": "{SemiBold}",
           "fontSize": "{Atom-Fontsize.12}",
-          "lineHeight": "{Atom-Lineheight.22}"
+          "lineHeight": "{Atom-Lineheight.24}"
         },
         "type": "typography"
       },
@@ -189,7 +189,7 @@
           "fontFamily": "{Cairo}",
           "fontWeight": "{SemiBold}",
           "fontSize": "{Atom-Fontsize.14}",
-          "lineHeight": "{Atom-Lineheight.28}"
+          "lineHeight": "{Atom-Lineheight.30}"
         },
         "type": "typography"
       }
