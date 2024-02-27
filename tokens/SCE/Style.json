@@ -104,7 +104,7 @@
           "fontFamily": "{Cairo}",
           "fontWeight": "{SemiBold}",
           "fontSize": "{Atom-Fontsize.14}",
-          "lineHeight": "{Atom-Lineheight.20}"
+          "lineHeight": "{Atom-Lineheight.22}"
         },
         "type": "typography"
       }
