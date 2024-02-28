@@ -115,7 +115,8 @@
       "Atoms/Shape/Border": "source",
       "Atoms/Shape/Opacity": "source",
       "Atoms/Font/Weight": "source",
-      "SCE/Style": "enabled"
+      "SCE/Style": "enabled",
+      "SCE/Info-Icon": "disabled"
     },
     "$figmaCollectionId": "VariableCollectionId:5:25",
     "$figmaModeId": "5:0",

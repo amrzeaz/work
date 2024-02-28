@@ -10,6 +10,7 @@
     "Atoms/Font/Weight",
     "Atoms/Font/Size",
     "Atoms/Font/LineHeight",
-    "SCE/Style"
+    "SCE/Style",
+    "SCE/Info-Icon"
   ]
 }
