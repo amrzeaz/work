@@ -176,7 +176,7 @@
           "fontFamily": "{Cairo}",
           "fontWeight": "{SemiBold}",
           "fontSize": "{Atom-Fontsize.12}",
-          "lineHeight": "{Atom-Lineheight.24}"
+          "lineHeight": "{Atom-Lineheight.20}"
         },
         "type": "typography"
       },
@@ -461,8 +461,7 @@
         },
         "box": {
           "value": "#F6F7F9",
-          "type": "color",
-          "$extensions": {}
+          "type": "color"
         }
       }
     },
