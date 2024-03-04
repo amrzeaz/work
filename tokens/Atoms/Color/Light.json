@@ -119,55 +119,55 @@
   },
   "Metal": {
     "1": {
-      "value": "#F8F9FA",
+      "value": "#F8F9F9",
       "type": "color"
     },
     "2": {
-      "value": "#F4F6F6",
+      "value": "#F4F5F6",
       "type": "color"
     },
     "3": {
-      "value": "#EAECEE",
+      "value": "#EAEBED",
       "type": "color"
     },
     "4": {
-      "value": "#DADEE1",
+      "value": "#DADCE0",
       "type": "color"
     },
     "5": {
-      "value": "#C0C6CB",
+      "value": "#C0C3C9",
       "type": "color"
     },
     "6": {
-      "value": "#AEB4B9",
+      "value": "#AEB1B7",
       "type": "color"
     },
     "7": {
-      "value": "#A3A9AD",
+      "value": "#A3A5AB",
       "type": "color"
     },
     "8": {
-      "value": "#8C9195",
+      "value": "#8C8E93",
       "type": "color"
     },
     "9": {
-      "value": "#797D81",
+      "value": "#797B7F",
       "type": "color"
     },
     "10": {
-      "value": "#626669",
+      "value": "#626467",
       "type": "color"
     },
     "11": {
-      "value": "#4C4E50",
+      "value": "#4C4D50",
       "type": "color"
     },
     "12": {
-      "value": "#353738",
+      "value": "#353638",
       "type": "color"
     },
     "13": {
-      "value": "#262728",
+      "value": "#262628",
       "type": "color"
     },
     "14": {
