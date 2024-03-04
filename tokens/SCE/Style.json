@@ -413,11 +413,11 @@
           "type": "color"
         },
         "600": {
-          "value": "{Metal.10}",
+          "value": "{Metal.11}",
           "type": "color"
         },
         "800": {
-          "value": "{Metal.12}",
+          "value": "{Metal.13}",
           "type": "color"
         }
       },
@@ -458,6 +458,11 @@
               }
             }
           }
+        },
+        "box": {
+          "value": "#F6F7F9",
+          "type": "color",
+          "$extensions": {}
         }
       }
     },
