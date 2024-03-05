@@ -1028,7 +1028,7 @@
         "y": "1",
         "blur": "0",
         "spread": "1",
-        "color": "{Color.Metal.Surface-opacity.box}",
+        "color": "#EBEBEB",
         "type": "dropShadow"
       }
     ],
