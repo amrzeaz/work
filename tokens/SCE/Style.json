@@ -1033,5 +1033,13 @@
       }
     ],
     "type": "boxShadow"
+  },
+  "BoxBG": {
+    "value": {
+      "boxShadow": "{Box-Main}",
+      "fill": "{Color.Metal.Bold.White}",
+      "borderRadius": "{AtomRadius.6}"
+    },
+    "type": "composition"
   }
 }
