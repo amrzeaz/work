@@ -122,6 +122,9 @@
     "$figmaModeId": "5:0",
     "$figmaVariableReferences": {
       "Info-Icon-Color": "2a8a856859a71f8a42dae9a389a3f5a199eb6cfa",
+      "Info-Iconbg-Color": "6508dd6c8aa30e4e165fb18a131ffdccf504f12d",
+      "input-Iconbg-Color": "4313f10bf3127dacf12e96f6e057f495c76d22b9",
+      "input-Iconbg-Color-gray": "96f99ff285472f0c59f50fa66329d4795a2298ab",
       "Numbers.1": "b03f320cb23a4074db902fe600691b1e7c91a00f",
       "Numbers.2": "be23a25624beeccf0d2bc6604a14ec2320483687",
       "Numbers.4": "fc61ba03c9a856b1c486cb110b477d78985c390f",
@@ -173,6 +176,7 @@
       "Color.Metal.Surface.60": "703baae82c764fe1698b2ec77b9817b08b0fd250",
       "Color.Metal.Surface.80": "ebcaa91e1301c5d8f9a83a84668e2194e83189a4",
       "Color.Metal.Surface-opacity.input": "c561a82a55ddd3f4be13a1282ad7bea86c2c5d88",
+      "Color.Metal.Surface-opacity.box": "60427443ce0017b3199a893a287676d7ca66e0d1",
       "Color.SCE.Surface.20": "2bc5994b5001e6de195eb8898a07f24cba36a257",
       "Color.SCE.Surface.40": "ab8b4c2c52e960b9f3d7c17bdc738a6fae8a93a8",
       "Color.SCE.Surface.60": "4d4beb1fe1af1d89f03a75c870ce162aad55b60c",
@@ -236,7 +240,10 @@
       "Radius.8": "6006a4ccccb0691327fa9999c3b27103396264e5",
       "Radius.10": "a11bb0cccb23092882675525d7d15e3a56ff6c13",
       "Radius.12": "a63730f111a343a665f5ece2033a04a1e2650abb",
-      "Radius.48": "15872181a7cec39fafff2479bb6902bdd0b64ad3"
+      "Radius.48": "15872181a7cec39fafff2479bb6902bdd0b64ad3",
+      "Color.Metal.Surface-opacity.Box-Main-Shadow-Color": "ef2a1e5c66bf038dbe9903e74c42fba21a359793",
+      "Color.Metal.Surface-opacity.sidebarBG": "76cf1d9987c4a87d1422b7614d0213ea212873b9",
+      "Color.Metal.Surface-opacity.Body": "566ac2d08500b744a8d48027189c0680bca18924"
     },
     "group": "SCE"
   }
