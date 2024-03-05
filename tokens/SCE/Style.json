@@ -772,6 +772,10 @@
       "value": "{AtomRadius.3}",
       "type": "borderRadius"
     },
+    "4": {
+      "value": "{AtomRadius.4}",
+      "type": "borderRadius"
+    },
     "6": {
       "value": "{AtomRadius.6}",
       "type": "borderRadius"
