@@ -1045,7 +1045,15 @@
       "boxShadow": "{Box-Main}",
       "fill": "{Color.Metal.Bold.White}",
       "borderRadius": "{AtomRadius.6}",
-      "itemSpacing": "{Numbers.16}"
+      "itemSpacing": "{Numbers.16}",
+      "paddingBottom": "{Numbers.24}"
+    },
+    "type": "composition"
+  },
+  "Text Padding": {
+    "value": {
+      "paddingRight": "{Numbers.16}",
+      "paddingLeft": "{Numbers.16}"
     },
     "type": "composition"
   }
