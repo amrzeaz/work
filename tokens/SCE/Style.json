@@ -6,7 +6,7 @@
           "fontFamily": "{Cairo}",
           "fontWeight": "{SemiBold}",
           "fontSize": "{Atom-Fontsize.16}",
-          "lineHeight": "{Atom-Lineheight.24}"
+          "lineHeight": "{Atom-Lineheight.26}"
         },
         "type": "typography"
       },
@@ -491,7 +491,7 @@
             "studio.tokens": {
               "modify": {
                 "type": "alpha",
-                "value": "0.5",
+                "value": "0.32",
                 "space": "lch"
               }
             }
@@ -1053,7 +1053,7 @@
     "value": {
       "boxShadow": "{Box-Main}",
       "fill": "{Color.Metal.Bold.White}",
-      "borderRadius": "{AtomRadius.6}"
+      "borderRadius": "{AtomRadius.12}"
     },
     "type": "composition"
   },
