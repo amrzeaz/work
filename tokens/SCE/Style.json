@@ -464,13 +464,13 @@
           "type": "color"
         },
         "Box-Main-Shadow-Color": {
-          "value": "{SCE.Secondary.14}",
+          "value": "#000000",
           "type": "color",
           "$extensions": {
             "studio.tokens": {
               "modify": {
                 "type": "alpha",
-                "value": "0.6",
+                "value": "0.65",
                 "space": "lch"
               }
             }
