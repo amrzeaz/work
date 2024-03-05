@@ -478,13 +478,11 @@
         },
         "sidebarBG": {
           "value": "#F0F0F0",
-          "type": "color",
-          "$extensions": {}
+          "type": "color"
         },
         "Body": {
           "value": "#FAFAFA",
-          "type": "color",
-          "$extensions": {}
+          "type": "color"
         }
       }
     },
@@ -1039,6 +1037,15 @@
       "boxShadow": "{Box-Main}",
       "fill": "{Color.Metal.Bold.White}",
       "borderRadius": "{AtomRadius.6}"
+    },
+    "type": "composition"
+  },
+  "Chip": {
+    "value": {
+      "boxShadow": "{Box-Main}",
+      "fill": "{Color.Metal.Bold.White}",
+      "borderRadius": "{AtomRadius.6}",
+      "itemSpacing": "{Numbers.16}"
     },
     "type": "composition"
   }
