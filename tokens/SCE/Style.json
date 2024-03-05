@@ -469,12 +469,22 @@
           "$extensions": {
             "studio.tokens": {
               "modify": {
-                "type": "lighten",
+                "type": "alpha",
                 "value": "0.6",
                 "space": "lch"
               }
             }
           }
+        },
+        "sidebarBG": {
+          "value": "#F0F0F0",
+          "type": "color",
+          "$extensions": {}
+        },
+        "Body": {
+          "value": "#FAFAFA",
+          "type": "color",
+          "$extensions": {}
         }
       }
     },
