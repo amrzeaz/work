@@ -6,7 +6,8 @@
           "fontFamily": "{Cairo}",
           "fontWeight": "{SemiBold}",
           "fontSize": "{Atom-Fontsize.16}",
-          "lineHeight": "{Atom-Lineheight.26}"
+          "lineHeight": "{Atom-Lineheight.26}",
+          "letterSpacing": "0"
         },
         "type": "typography"
       },
@@ -15,7 +16,8 @@
           "fontFamily": "{Cairo}",
           "fontWeight": "{SemiBold}",
           "fontSize": "{Atom-Fontsize.18}",
-          "lineHeight": "{Atom-Lineheight.28}"
+          "lineHeight": "{Atom-Lineheight.28}",
+          "letterSpacing": "0"
         },
         "type": "typography"
       },
@@ -24,7 +26,8 @@
           "fontFamily": "{Cairo}",
           "fontWeight": "{SemiBold}",
           "fontSize": "{Atom-Fontsize.20}",
-          "lineHeight": "{Atom-Lineheight.30}"
+          "lineHeight": "{Atom-Lineheight.30}",
+          "letterSpacing": "0"
         },
         "type": "typography"
       },
@@ -33,7 +36,8 @@
           "fontFamily": "{Cairo}",
           "fontWeight": "{SemiBold}",
           "fontSize": "{Atom-Fontsize.24}",
-          "lineHeight": "{Atom-Lineheight.36}"
+          "lineHeight": "{Atom-Lineheight.36}",
+          "letterSpacing": "0"
         },
         "type": "typography"
       }
@@ -44,7 +48,8 @@
           "fontFamily": "{Cairo}",
           "fontWeight": "{Bold}",
           "fontSize": "{Atom-Fontsize.16}",
-          "lineHeight": "{Atom-Lineheight.24}"
+          "lineHeight": "{Atom-Lineheight.24}",
+          "letterSpacing": "0"
         },
         "type": "typography"
       },
@@ -53,7 +58,8 @@
           "fontFamily": "{Cairo}",
           "fontWeight": "{Bold}",
           "fontSize": "{Atom-Fontsize.18}",
-          "lineHeight": "{Atom-Lineheight.28}"
+          "lineHeight": "{Atom-Lineheight.28}",
+          "letterSpacing": "0"
         },
         "type": "typography"
       },
@@ -62,7 +68,8 @@
           "fontFamily": "{Cairo}",
           "fontWeight": "{Bold}",
           "fontSize": "{Atom-Fontsize.20}",
-          "lineHeight": "{Atom-Lineheight.30}"
+          "lineHeight": "{Atom-Lineheight.30}",
+          "letterSpacing": "0"
         },
         "type": "typography"
       },
@@ -71,7 +78,8 @@
           "fontFamily": "{Cairo}",
           "fontWeight": "{Bold}",
           "fontSize": "{Atom-Fontsize.24}",
-          "lineHeight": "{Atom-Lineheight.36}"
+          "lineHeight": "{Atom-Lineheight.36}",
+          "letterSpacing": "0"
         },
         "type": "typography"
       }
@@ -82,7 +90,8 @@
           "fontFamily": "{Cairo}",
           "fontWeight": "{SemiBold}",
           "fontSize": "{Atom-Fontsize.8}",
-          "lineHeight": "{Atom-Lineheight.10}"
+          "lineHeight": "{Atom-Lineheight.10}",
+          "letterSpacing": "0"
         },
         "type": "typography"
       },
@@ -91,7 +100,8 @@
           "fontFamily": "{Cairo}",
           "fontWeight": "{SemiBold}",
           "fontSize": "{Atom-Fontsize.10}",
-          "lineHeight": "{Atom-Lineheight.12}"
+          "lineHeight": "{Atom-Lineheight.12}",
+          "letterSpacing": "0"
         },
         "type": "typography"
       },
@@ -100,7 +110,8 @@
           "fontFamily": "{Cairo}",
           "fontWeight": "{SemiBold}",
           "fontSize": "{Atom-Fontsize.12}",
-          "lineHeight": "{Atom-Lineheight.16}"
+          "lineHeight": "{Atom-Lineheight.16}",
+          "letterSpacing": "0"
         },
         "type": "typography"
       },
@@ -109,7 +120,8 @@
           "fontFamily": "{Cairo}",
           "fontWeight": "{SemiBold}",
           "fontSize": "{Atom-Fontsize.14}",
-          "lineHeight": "{Atom-Lineheight.22}"
+          "lineHeight": "{Atom-Lineheight.22}",
+          "letterSpacing": "0"
         },
         "type": "typography"
       }
@@ -120,7 +132,8 @@
           "fontFamily": "{Cairo}",
           "fontWeight": "{Bold}",
           "fontSize": "{Atom-Fontsize.8}",
-          "lineHeight": "{Atom-Lineheight.10}"
+          "lineHeight": "{Atom-Lineheight.10}",
+          "letterSpacing": "0"
         },
         "type": "typography"
       },
@@ -129,7 +142,8 @@
           "fontFamily": "{Cairo}",
           "fontWeight": "{Bold}",
           "fontSize": "{Atom-Fontsize.10}",
-          "lineHeight": "{Atom-Lineheight.12}"
+          "lineHeight": "{Atom-Lineheight.12}",
+          "letterSpacing": "0"
         },
         "type": "typography"
       },
@@ -138,7 +152,8 @@
           "fontFamily": "{Cairo}",
           "fontWeight": "{Bold}",
           "fontSize": "{Atom-Fontsize.12}",
-          "lineHeight": "{Atom-Lineheight.16}"
+          "lineHeight": "{Atom-Lineheight.16}",
+          "letterSpacing": "0"
         },
         "type": "typography"
       },
@@ -147,7 +162,8 @@
           "fontFamily": "{Cairo}",
           "fontWeight": "{Bold}",
           "fontSize": "{Atom-Fontsize.14}",
-          "lineHeight": "{Atom-Lineheight.22}"
+          "lineHeight": "{Atom-Lineheight.22}",
+          "letterSpacing": "0"
         },
         "type": "typography"
       }
@@ -158,7 +174,8 @@
           "fontFamily": "{Cairo}",
           "fontWeight": "{SemiBold}",
           "fontSize": "{Atom-Fontsize.8}",
-          "lineHeight": "{Atom-Lineheight.18}"
+          "lineHeight": "{Atom-Lineheight.18}",
+          "letterSpacing": "0"
         },
         "type": "typography"
       },
@@ -167,7 +184,8 @@
           "fontFamily": "{Cairo}",
           "fontWeight": "{SemiBold}",
           "fontSize": "{Atom-Fontsize.10}",
-          "lineHeight": "{Atom-Lineheight.22}"
+          "lineHeight": "{Atom-Lineheight.22}",
+          "letterSpacing": "0"
         },
         "type": "typography"
       },
@@ -176,7 +194,8 @@
           "fontFamily": "{Cairo}",
           "fontWeight": "{SemiBold}",
           "fontSize": "{Atom-Fontsize.12}",
-          "lineHeight": "{Atom-Lineheight.20}"
+          "lineHeight": "{Atom-Lineheight.20}",
+          "letterSpacing": "0"
         },
         "type": "typography"
       },
@@ -185,7 +204,8 @@
           "fontFamily": "{Cairo}",
           "fontWeight": "{SemiBold}",
           "fontSize": "{Atom-Fontsize.14}",
-          "lineHeight": "{Atom-Lineheight.26}"
+          "lineHeight": "{Atom-Lineheight.26}",
+          "letterSpacing": "0"
         },
         "type": "typography"
       }
