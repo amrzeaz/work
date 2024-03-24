@@ -254,7 +254,7 @@
     "name": "Light",
     "$figmaStyleReferences": {},
     "selectedTokenSets": {
-      "Atoms/Color/Light_V1": "enabled",
+      "Atoms/Color/Light_V1": "source",
       "Atoms/Shape/Spacing": "source",
       "Atoms/Shape/Sizing": "source",
       "Atoms/Shape/Radius": "source",
