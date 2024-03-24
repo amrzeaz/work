@@ -266,7 +266,9 @@
       "Atoms/Font/LineHeight": "source",
       "Gamification/Style": "source",
       "Gamification/Typography": "source",
-      "Gamification/color": "source"
+      "Gamification/color": "source",
+      "Gamification/Spacing": "source",
+      "Gamification/Images": "source"
     },
     "group": "Gamification"
   },
@@ -287,7 +289,9 @@
       "Atoms/Font/LineHeight": "source",
       "Gamification/Style": "source",
       "Gamification/Typography": "source",
-      "Gamification/color": "source"
+      "Gamification/color": "source",
+      "Gamification/Spacing": "source",
+      "Gamification/Images": "source"
     },
     "group": "Gamification"
   }
