@@ -116,7 +116,10 @@
       "Atoms/Shape/Opacity": "source",
       "Atoms/Font/Weight": "source",
       "SCE/Style": "enabled",
-      "SCE/Info-Icon": "enabled"
+      "SCE/Info-Icon": "enabled",
+      "Gamification/color": "disabled",
+      "Gamification/Images": "disabled",
+      "Gamification/Spacing": "disabled"
     },
     "$figmaCollectionId": "VariableCollectionId:1:53061",
     "$figmaModeId": "5:0",
@@ -265,7 +268,10 @@
       "Atoms/Font/Size": "source",
       "Atoms/Font/LineHeight": "source",
       "Gamification/Style": "source",
-      "Gamification/Typography": "source"
+      "Gamification/Typography": "source",
+      "Gamification/color": "source",
+      "Gamification/Images": "disabled",
+      "Gamification/Spacing": "disabled"
     },
     "group": "Gamification"
   },
@@ -285,7 +291,10 @@
       "Atoms/Font/Size": "source",
       "Atoms/Font/LineHeight": "source",
       "Gamification/Style": "source",
-      "Gamification/Typography": "source"
+      "Gamification/Typography": "source",
+      "Gamification/color": "source",
+      "Gamification/Images": "disabled",
+      "Gamification/Spacing": "disabled"
     },
     "group": "Gamification"
   }
