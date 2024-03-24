@@ -402,7 +402,7 @@
               "fontFamily": "{Handjet}",
               "fontWeight": "{Bold}",
               "fontSize": "{Atom-Fontsize.20}",
-              "lineHeight": "{Atom-Lineheight.20}",
+              "lineHeight": "{Atom-Lineheight.26}",
               "letterSpacing": "0"
             },
             "type": "typography"
@@ -412,7 +412,7 @@
               "fontFamily": "{Handjet}",
               "fontWeight": "{Bold}",
               "fontSize": "{Atom-Fontsize.24}",
-              "lineHeight": "{Atom-Lineheight.24}",
+              "lineHeight": "{Atom-Lineheight.30}",
               "letterSpacing": "0"
             },
             "type": "typography"
@@ -496,7 +496,7 @@
               "fontFamily": "{Tajawal}",
               "fontWeight": "{Regular}",
               "fontSize": "{Atom-Fontsize.24}",
-              "lineHeight": "{Atom-Lineheight.24}",
+              "lineHeight": "{Atom-Lineheight.34}",
               "letterSpacing": "0"
             },
             "type": "typography"
@@ -578,7 +578,7 @@
               "fontFamily": "{Tajawal}",
               "fontWeight": "{Medium}",
               "fontSize": "{Atom-Fontsize.24}",
-              "lineHeight": "{Atom-Lineheight.24}",
+              "lineHeight": "{Atom-Lineheight.34}",
               "letterSpacing": "0"
             },
             "type": "typography"
@@ -660,7 +660,7 @@
               "fontFamily": "{Tajawal}",
               "fontWeight": "{Bold}",
               "fontSize": "{Atom-Fontsize.24}",
-              "lineHeight": "{Atom-Lineheight.24}",
+              "lineHeight": "{Atom-Lineheight.34}",
               "letterSpacing": "0"
             },
             "type": "typography"
