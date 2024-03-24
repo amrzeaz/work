@@ -1,6 +1,7 @@
 {
   "tokenSetOrder": [
     "Atoms/Color/Light",
+    "Atoms/Color/Light-V1",
     "Atoms/Shape/Spacing",
     "Atoms/Shape/Sizing",
     "Atoms/Shape/Radius",

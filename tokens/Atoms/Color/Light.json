@@ -468,7 +468,7 @@
   "Balady-Gamification": {
     "Main": {
       "1": {
-        "value": "#FAF6F0",
+        "value": "rgba(0,0,0,0.87)",
         "type": "color"
       },
       "2": {
@@ -521,6 +521,10 @@
       },
       "14": {
         "value": "#332005",
+        "type": "color"
+      },
+      "1-copy": {
+        "value": "rgba(255,255,255,0.87)",
         "type": "color"
       }
     },
