@@ -473,7 +473,7 @@
             "studio.tokens": {
               "modify": {
                 "type": "alpha",
-                "value": "0.64",
+                "value": "Spaceing.0.6Spaceing.4",
                 "space": "lch"
               }
             }
@@ -490,7 +490,7 @@
             "studio.tokens": {
               "modify": {
                 "type": "alpha",
-                "value": "0.65",
+                "value": "Spaceing.0.65",
                 "space": "lch"
               }
             }
@@ -511,7 +511,7 @@
             "studio.tokens": {
               "modify": {
                 "type": "alpha",
-                "value": "0.32",
+                "value": "Spaceing.0.Spaceing.3Spaceing.2",
                 "space": "lch"
               }
             }
