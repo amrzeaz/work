@@ -1,15 +1,19 @@
 {
   "Atom-Lineheight": {
+    "8": {
+      "value": "8",
+      "type": "lineHeights"
+    },
     "10": {
-      "value": "12",
+      "value": "10",
       "type": "lineHeights"
     },
     "11": {
-      "value": "{Atom-Fontsize.10}",
+      "value": "{Atom-Fontsize.11}",
       "type": "lineHeights"
     },
     "12": {
-      "value": "16",
+      "value": "12",
       "type": "lineHeights"
     },
     "14": {

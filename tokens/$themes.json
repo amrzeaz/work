@@ -96,13 +96,13 @@
       "Typo.SubBold.10": "S:dc7149cc84468981caa9b8cbba60381f535bd08f,",
       "Typo.SubBold.12": "S:b2d9cb29ace8a274f97e32434e64446903316213,",
       "Typo.SubBold.14": "S:e49c4a865506d9e1e5c2b667bfc11bf434c638e5,",
-      "typo.line.handjet.16": "S:5419f60fd88c70585db094a197919a6a5e46afef,",
-      "typo.line.handjet.18": "S:1777f31cce28c658cfd27e9ef51bc07775948f5f,",
-      "typo.line.handjet.20": "S:4d41db0f86107249e4082200b1b185e1bc0df474,",
-      "typo.line.handjet.24": "S:7e90eb7a119b6a6aa244f17d9751275205eb7c1b,",
-      "typo.line.handjet.10": "S:eb06d32e7cc5320b98667762c676f67dd4316575,",
-      "typo.line.handjet.12": "S:9bd790b66b8894edaacb784a39aa40f8c003d25a,",
-      "typo.line.handjet.14": "S:464b2908dac0dd14eea0c901056fb857a824a8d5,"
+      "typo.line.handjet.bold.16": "S:5419f60fd88c70585db094a197919a6a5e46afef,",
+      "typo.line.handjet.bold.18": "S:1777f31cce28c658cfd27e9ef51bc07775948f5f,",
+      "typo.line.handjet.bold.20": "S:4d41db0f86107249e4082200b1b185e1bc0df474,",
+      "typo.line.handjet.bold.24": "S:7e90eb7a119b6a6aa244f17d9751275205eb7c1b,",
+      "typo.line.handjet.bold.10": "S:eb06d32e7cc5320b98667762c676f67dd4316575,",
+      "typo.line.handjet.bold.12": "S:9bd790b66b8894edaacb784a39aa40f8c003d25a,",
+      "typo.line.handjet.bold.14": "S:464b2908dac0dd14eea0c901056fb857a824a8d5,"
     },
     "selectedTokenSets": {
       "Atoms/Font/Family": "source",
@@ -116,9 +116,7 @@
       "Atoms/Shape/Opacity": "source",
       "Atoms/Font/Weight": "source",
       "SCE/Style": "enabled",
-      "SCE/Info-Icon": "enabled",
-      "Gamification/Style": "disabled",
-      "Gamification/Typography": "disabled"
+      "SCE/Info-Icon": "enabled"
     },
     "$figmaCollectionId": "VariableCollectionId:1:53061",
     "$figmaModeId": "5:0",
