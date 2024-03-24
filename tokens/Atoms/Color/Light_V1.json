@@ -40,16 +40,32 @@
         }
       },
       "levels": {
-        "surface-high": {
-          "value": "#252727",
+        "0": {
+          "value": "#ffffff",
           "type": "color"
         },
-        "surface-medium": {
-          "value": "#1E1F1F",
+        "1": {
+          "value": "#FBFBFB",
           "type": "color"
         },
-        "surface-low": {
-          "value": "#1A1A1A",
+        "2": {
+          "value": "#F3F5F6",
+          "type": "color"
+        },
+        "3": {
+          "value": "#EEF0F2",
+          "type": "color"
+        },
+        "4": {
+          "value": "#EAEBEC",
+          "type": "color"
+        },
+        "5": {
+          "value": "#D4D7D8",
+          "type": "color"
+        },
+        "6": {
+          "value": "#CACDCE",
           "type": "color"
         }
       }
