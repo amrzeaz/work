@@ -1,0 +1,106 @@
+{
+  "colors-v1": {
+    "text-out-surface": {
+      "text": {
+        "head": {
+          "value": "#EAEBEB",
+          "type": "color"
+        },
+        "sub": {
+          "value": "#959A9D",
+          "type": "color"
+        },
+        "paragraph": {
+          "value": "#62676A",
+          "type": "color"
+        }
+      },
+      "out": {
+        "shape-high": {
+          "value": "#3A3D41",
+          "type": "color"
+        },
+        "shape-low": {
+          "value": "#272A2A",
+          "type": "color"
+        }
+      },
+      "surface": {
+        "surface-high": {
+          "value": "#1E1F1F",
+          "type": "color"
+        },
+        "surface-medium": {
+          "value": "#171717",
+          "type": "color"
+        },
+        "surface-low": {
+          "value": "#0F0F0F",
+          "type": "color"
+        }
+      }
+    },
+    "Tones": {
+      "blue": {
+        "sky": {
+          "value": "#58B5E4",
+          "type": "color"
+        },
+        "blue": {
+          "value": "#2546A7",
+          "type": "color"
+        }
+      },
+      "yellow": {
+        "yellow": {
+          "value": "#EBCA6F",
+          "type": "color"
+        },
+        "orange": {
+          "value": "#E4893A",
+          "type": "color"
+        }
+      },
+      "red": {
+        "rose": {
+          "value": "#D0586E",
+          "type": "color"
+        },
+        "red": {
+          "value": "#980B0F",
+          "type": "color"
+        }
+      },
+      "green": {
+        "lime": {
+          "value": "#A0D373",
+          "type": "color"
+        },
+        "green": {
+          "value": "#376C3E",
+          "type": "color"
+        }
+      },
+      "purple": {
+        "Mauve": {
+          "value": "#8868DE",
+          "type": "color"
+        },
+        "Purple": {
+          "value": "#683C9A",
+          "type": "color"
+        }
+      },
+      "pink": {
+        "Fuscia": {
+          "value": "#D06CBC",
+          "type": "color"
+        },
+        "Pink": {
+          "value": "#8A386E",
+          "type": "color"
+        }
+      }
+    }
+  }
+}
