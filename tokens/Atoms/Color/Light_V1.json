@@ -38,6 +38,20 @@
           "value": "#FBFBFB",
           "type": "color"
         }
+      },
+      "levels": {
+        "surface-high": {
+          "value": "#252727",
+          "type": "color"
+        },
+        "surface-medium": {
+          "value": "#1E1F1F",
+          "type": "color"
+        },
+        "surface-low": {
+          "value": "#1A1A1A",
+          "type": "color"
+        }
       }
     },
     "Tones": {

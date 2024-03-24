@@ -7,7 +7,7 @@
           "type": "color"
         },
         "sub": {
-          "value": "#959A9D",
+          "value": "#A0A4A7",
           "type": "color"
         },
         "paragraph": {
@@ -21,21 +21,21 @@
           "type": "color"
         },
         "shape-low": {
-          "value": "#272A2A",
+          "value": "#2F3132",
           "type": "color"
         }
       },
       "surface": {
         "surface-high": {
-          "value": "#1E1F1F",
+          "value": "#252727",
           "type": "color"
         },
         "surface-medium": {
-          "value": "#171717",
+          "value": "#1E1F1F",
           "type": "color"
         },
         "surface-low": {
-          "value": "#0F0F0F",
+          "value": "#1A1A1A",
           "type": "color"
         }
       }
