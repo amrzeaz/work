@@ -72,6 +72,10 @@
     },
     "Tones": {
       "blue": {
+        "light-sky": {
+          "value": "#D8F1FD",
+          "type": "color"
+        },
         "sky": {
           "value": "#76CDF9",
           "type": "color"
@@ -82,6 +86,10 @@
         }
       },
       "yellow": {
+        "light-yellow": {
+          "value": "#FDF3D8",
+          "type": "color"
+        },
         "yellow": {
           "value": "#F9D676",
           "type": "color"
@@ -92,6 +100,10 @@
         }
       },
       "red": {
+        "light-rose": {
+          "value": "#FDD8DF",
+          "type": "color"
+        },
         "rose": {
           "value": "#F9768E",
           "type": "color"
@@ -102,6 +114,10 @@
         }
       },
       "green": {
+        "light-lime": {
+          "value": "#E9FDD8",
+          "type": "color"
+        },
         "lime": {
           "value": "#B3F976",
           "type": "color"
@@ -112,6 +128,10 @@
         }
       },
       "purple": {
+        "light-Mauve": {
+          "value": "#E1D6FF",
+          "type": "color"
+        },
         "Mauve": {
           "value": "#956FFF",
           "type": "color"
@@ -122,6 +142,10 @@
         }
       },
       "pink": {
+        "light-Fuscia": {
+          "value": "#FDD8F6",
+          "type": "color"
+        },
         "Fuscia": {
           "value": "#F976DF",
           "type": "color"
