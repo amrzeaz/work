@@ -473,7 +473,7 @@
             "studio.tokens": {
               "modify": {
                 "type": "alpha",
-                "value": "Atom-Atom-Spaceing.0.6Atom-Spaceing.4",
+                "value": "Atom-Atom-Spaceing.Atom-Opacity.0.6Atom-Spaceing.4",
                 "space": "lch"
               }
             }
@@ -490,7 +490,7 @@
             "studio.tokens": {
               "modify": {
                 "type": "alpha",
-                "value": "Atom-Atom-Spaceing.0.65",
+                "value": "Atom-Atom-Spaceing.Atom-Opacity.0.65",
                 "space": "lch"
               }
             }
@@ -511,7 +511,7 @@
             "studio.tokens": {
               "modify": {
                 "type": "alpha",
-                "value": "Atom-Atom-Spaceing.0.Atom-Spaceing.3Atom-Spaceing.2",
+                "value": "Atom-Atom-Spaceing.Atom-Opacity.0.Atom-Spaceing.3Atom-Spaceing.2",
                 "space": "lch"
               }
             }

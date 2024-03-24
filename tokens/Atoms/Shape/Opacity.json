@@ -1,8 +1,4 @@
 {
-  "0": {
-    "value": "0",
-    "type": "opacity"
-  },
   "10": {
     "value": "10",
     "type": "opacity"
@@ -102,5 +98,11 @@
   "100": {
     "value": "100",
     "type": "opacity"
+  },
+  "Atom-Opacity": {
+    "0": {
+      "value": "0",
+      "type": "opacity"
+    }
   }
 }
