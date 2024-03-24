@@ -205,39 +205,39 @@
   },
   "Radius": {
     "0": {
-      "value": "{AtomRadius.0}",
+      "value": "{Atom-Radius.0}",
       "type": "borderRadius"
     },
     "1": {
-      "value": "{AtomRadius.1}",
+      "value": "{Atom-Radius.1}",
       "type": "borderRadius"
     },
     "3": {
-      "value": "{AtomRadius.3}",
+      "value": "{Atom-Radius.3}",
       "type": "borderRadius"
     },
     "4": {
-      "value": "{AtomRadius.4}",
+      "value": "{Atom-Radius.4}",
       "type": "borderRadius"
     },
     "6": {
-      "value": "{AtomRadius.6}",
+      "value": "{Atom-Radius.6}",
       "type": "borderRadius"
     },
     "8": {
-      "value": "{AtomRadius.8}",
+      "value": "{Atom-Radius.8}",
       "type": "borderRadius"
     },
     "10": {
-      "value": "{AtomRadius.10}",
+      "value": "{Atom-Radius.10}",
       "type": "borderRadius"
     },
     "12": {
-      "value": "{AtomRadius.12}",
+      "value": "{Atom-Radius.12}",
       "type": "borderRadius"
     },
     "48": {
-      "value": "{AtomRadius.48}",
+      "value": "{Atom-Radius.48}",
       "type": "borderRadius"
     }
   },
@@ -258,7 +258,7 @@
     "value": {
       "boxShadow": "{Box-Main}",
       "fill": "{Color.Metal.Bold.White}",
-      "borderRadius": "{AtomRadius.12}"
+      "borderRadius": "{Atom-Radius.12}"
     },
     "type": "composition"
   },
@@ -266,7 +266,7 @@
     "value": {
       "boxShadow": "{Box-Main}",
       "fill": "{Color.Metal.Bold.White}",
-      "borderRadius": "{AtomRadius.6}",
+      "borderRadius": "{Atom-Radius.6}",
       "itemSpacing": "{Numbers.16}",
       "paddingBottom": "{Numbers.24}"
     },
