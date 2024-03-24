@@ -2,5 +2,13 @@
   "Cairo": {
     "value": "Cairo",
     "type": "fontFamilies"
+  },
+  "Handjet": {
+    "value": "Handjet",
+    "type": "fontFamilies"
+  },
+  "Tajawal": {
+    "value": "Tajawal",
+    "type": "fontFamilies"
   }
 }

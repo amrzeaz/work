@@ -13,6 +13,8 @@
     "Atoms/Font/Size",
     "Atoms/Font/LineHeight",
     "SCE/Style",
-    "SCE/Info-Icon"
+    "SCE/Info-Icon",
+    "Gamification/Style",
+    "Gamification/Typography"
   ]
 }

@@ -89,20 +89,20 @@
       "Color.SCE.Main.900": "S:c8a833512014fc1cc67ea1769f875c8da7ece1c5,",
       "Color.SCE.Pressed.1000": "S:515e4c613a2ac8c9d076f6579d1b02506b1d758d,",
       "Color.Metal.Bold.White": "S:69c7436bde9f58fea1023fa605d5971565de8e8e,",
-      "Typo.BigLight.16": "S:5419f60fd88c70585db094a197919a6a5e46afef,",
-      "Typo.BigLight.18": "S:1777f31cce28c658cfd27e9ef51bc07775948f5f,",
-      "Typo.BigLight.20": "S:4d41db0f86107249e4082200b1b185e1bc0df474,",
-      "Typo.BigLight.24": "S:7e90eb7a119b6a6aa244f17d9751275205eb7c1b,",
       "Typo.BigBold.16": "S:4cc5912e4d6f6c6ea1aaf6e1b2c90a9e97952634,",
       "Typo.BigBold.18": "S:d02784d99ae177ecd1156886c8f219820559f68f,",
       "Typo.BigBold.20": "S:c5e0b2bacbe169962183448a72b2ac7dead2a874,",
       "Typo.BigBold.24": "S:9caac3db7ffdcc919266a86eff49b75b9f599b0c,",
-      "Typo.SubLight.10": "S:eb06d32e7cc5320b98667762c676f67dd4316575,",
-      "Typo.SubLight.12": "S:9bd790b66b8894edaacb784a39aa40f8c003d25a,",
-      "Typo.SubLight.14": "S:464b2908dac0dd14eea0c901056fb857a824a8d5,",
       "Typo.SubBold.10": "S:dc7149cc84468981caa9b8cbba60381f535bd08f,",
       "Typo.SubBold.12": "S:b2d9cb29ace8a274f97e32434e64446903316213,",
-      "Typo.SubBold.14": "S:e49c4a865506d9e1e5c2b667bfc11bf434c638e5,"
+      "Typo.SubBold.14": "S:e49c4a865506d9e1e5c2b667bfc11bf434c638e5,",
+      "typo.line.handjet.16": "S:5419f60fd88c70585db094a197919a6a5e46afef,",
+      "typo.line.handjet.18": "S:1777f31cce28c658cfd27e9ef51bc07775948f5f,",
+      "typo.line.handjet.20": "S:4d41db0f86107249e4082200b1b185e1bc0df474,",
+      "typo.line.handjet.24": "S:7e90eb7a119b6a6aa244f17d9751275205eb7c1b,",
+      "typo.line.handjet.10": "S:eb06d32e7cc5320b98667762c676f67dd4316575,",
+      "typo.line.handjet.12": "S:9bd790b66b8894edaacb784a39aa40f8c003d25a,",
+      "typo.line.handjet.14": "S:464b2908dac0dd14eea0c901056fb857a824a8d5,"
     },
     "selectedTokenSets": {
       "Atoms/Font/Family": "source",
@@ -117,8 +117,8 @@
       "Atoms/Font/Weight": "source",
       "SCE/Style": "enabled",
       "SCE/Info-Icon": "enabled",
-      "Atoms/Color/Dark_V1": "disabled",
-      "Atoms/Color/Light_V1": "disabled"
+      "Gamification/Style": "disabled",
+      "Gamification/Typography": "disabled"
     },
     "$figmaCollectionId": "VariableCollectionId:1:53061",
     "$figmaModeId": "5:0",
@@ -250,5 +250,45 @@
       "Radius.48": "edab4651e55a86c29eb606950211d6d3be1b136b"
     },
     "group": "SCE"
+  },
+  {
+    "id": "aca350218149e02052d8ce06add9106f6093cf8d",
+    "name": "Light",
+    "$figmaStyleReferences": {},
+    "selectedTokenSets": {
+      "Atoms/Color/Light_V1": "source",
+      "Atoms/Shape/Spacing": "source",
+      "Atoms/Shape/Sizing": "source",
+      "Atoms/Shape/Radius": "source",
+      "Atoms/Shape/Border": "source",
+      "Atoms/Shape/Opacity": "source",
+      "Atoms/Font/Family": "source",
+      "Atoms/Font/Weight": "source",
+      "Atoms/Font/Size": "source",
+      "Atoms/Font/LineHeight": "source",
+      "Gamification/Style": "source",
+      "Gamification/Typography": "source"
+    },
+    "group": "Gamification"
+  },
+  {
+    "id": "a29efd2fe848e443d1dcabb7996ec68d1b7f2011",
+    "name": "Dark",
+    "$figmaStyleReferences": {},
+    "selectedTokenSets": {
+      "Atoms/Color/Dark_V1": "source",
+      "Atoms/Shape/Spacing": "source",
+      "Atoms/Shape/Sizing": "source",
+      "Atoms/Shape/Radius": "source",
+      "Atoms/Shape/Border": "source",
+      "Atoms/Shape/Opacity": "source",
+      "Atoms/Font/Family": "source",
+      "Atoms/Font/Weight": "source",
+      "Atoms/Font/Size": "source",
+      "Atoms/Font/LineHeight": "source",
+      "Gamification/Style": "source",
+      "Gamification/Typography": "source"
+    },
+    "group": "Gamification"
   }
 ]
