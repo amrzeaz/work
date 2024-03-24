@@ -381,7 +381,8 @@
       "Gamification/Typography": "enabled",
       "Gamification/color": "enabled",
       "Gamification/Spacing": "enabled",
-      "Gamification/Images": "enabled"
+      "Gamification/Images": "enabled",
+      "Gamification/Radius": "enabled"
     },
     "$figmaVariableReferences": {
       "Numbers.1": "fcdde97ef880dfff45b4f43a1c18fd69683140ff",
@@ -487,7 +488,8 @@
       "Gamification/Typography": "enabled",
       "Gamification/color": "enabled",
       "Gamification/Spacing": "enabled",
-      "Gamification/Images": "enabled"
+      "Gamification/Images": "enabled",
+      "Gamification/Radius": "enabled"
     },
     "$figmaVariableReferences": {
       "Numbers.1": "fcdde97ef880dfff45b4f43a1c18fd69683140ff",
