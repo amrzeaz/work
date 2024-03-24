@@ -249,6 +249,88 @@
             },
             "type": "typography"
           }
+        },
+        "bold": {
+          "8": {
+            "value": {
+              "fontFamily": "{Tajawal}",
+              "fontWeight": "{Medium}",
+              "fontSize": "{Atom-Fontsize.8}",
+              "lineHeight": "{Atom-Lineheight.8}",
+              "letterSpacing": "0"
+            },
+            "type": "typography"
+          },
+          "10": {
+            "value": {
+              "fontFamily": "{Tajawal}",
+              "fontWeight": "{Medium}",
+              "fontSize": "{Atom-Fontsize.10}",
+              "lineHeight": "{Atom-Lineheight.10}",
+              "letterSpacing": "0"
+            },
+            "type": "typography"
+          },
+          "12": {
+            "value": {
+              "fontFamily": "{Tajawal}",
+              "fontWeight": "{Medium}",
+              "fontSize": "{Atom-Fontsize.12}",
+              "lineHeight": "{Atom-Lineheight.12}",
+              "letterSpacing": "0"
+            },
+            "type": "typography"
+          },
+          "14": {
+            "value": {
+              "fontFamily": "{Tajawal}",
+              "fontWeight": "{Medium}",
+              "fontSize": "{Atom-Fontsize.14}",
+              "lineHeight": "{Atom-Lineheight.14}",
+              "letterSpacing": "0"
+            },
+            "type": "typography"
+          },
+          "16": {
+            "value": {
+              "fontFamily": "{Tajawal}",
+              "fontWeight": "{Medium}",
+              "fontSize": "{Atom-Fontsize.16}",
+              "lineHeight": "{Atom-Lineheight.16}",
+              "letterSpacing": "0"
+            },
+            "type": "typography"
+          },
+          "18": {
+            "value": {
+              "fontFamily": "{Tajawal}",
+              "fontWeight": "{Medium}",
+              "fontSize": "{Atom-Fontsize.18}",
+              "lineHeight": "{Atom-Lineheight.18}",
+              "letterSpacing": "0"
+            },
+            "type": "typography"
+          },
+          "20": {
+            "value": {
+              "fontFamily": "{Tajawal}",
+              "fontWeight": "{Medium}",
+              "fontSize": "{Atom-Fontsize.20}",
+              "lineHeight": "{Atom-Lineheight.20}",
+              "letterSpacing": "0"
+            },
+            "type": "typography"
+          },
+          "24": {
+            "value": {
+              "fontFamily": "{Tajawal}",
+              "fontWeight": "{Medium}",
+              "fontSize": "{Atom-Fontsize.24}",
+              "lineHeight": "{Atom-Lineheight.24}",
+              "letterSpacing": "0"
+            },
+            "type": "typography"
+          }
         }
       }
     }
