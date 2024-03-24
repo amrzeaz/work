@@ -7,11 +7,11 @@
           "type": "color"
         },
         "sub": {
-          "value": "#A0A4A7",
+          "value": "#A0A3A7",
           "type": "color"
         },
         "paragraph": {
-          "value": "#62676A",
+          "value": "#62666A",
           "type": "color"
         }
       },
@@ -21,21 +21,21 @@
           "type": "color"
         },
         "shape-low": {
-          "value": "#2F3132",
+          "value": "#2E3033",
           "type": "color"
         }
       },
       "surface": {
         "surface-high": {
-          "value": "#252727",
+          "value": "#252628",
           "type": "color"
         },
         "surface-medium": {
-          "value": "#1E1F1F",
+          "value": "#1E1F20",
           "type": "color"
         },
         "surface-low": {
-          "value": "#1A1A1A",
+          "value": "#191A1B",
           "type": "color"
         }
       },
@@ -45,7 +45,7 @@
           "type": "color"
         },
         "1": {
-          "value": "#1A1A1A",
+          "value": "#191A1B",
           "type": "color"
         },
         "2": {
@@ -53,7 +53,7 @@
           "type": "color"
         },
         "3": {
-          "value": "#232525",
+          "value": "#232425",
           "type": "color"
         },
         "4": {
@@ -65,7 +65,7 @@
           "type": "color"
         },
         "6": {
-          "value": "#3A3D41",
+          "value": "#3A3E41",
           "type": "color"
         }
       }
