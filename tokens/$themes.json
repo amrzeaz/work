@@ -417,7 +417,6 @@
       "Tints.yellow.orange": "S:8eec8ef3d8d94ebd000aff50cad03f7f0b3618ec,"
     },
     "selectedTokenSets": {
-      "Atoms/Color/Light_V1": "source",
       "Atoms/Shape/Spacing": "source",
       "Atoms/Shape/Sizing": "source",
       "Atoms/Shape/Radius": "source",
@@ -432,7 +431,8 @@
       "Gamification/color": "enabled",
       "Gamification/Spacing": "enabled",
       "Gamification/Images": "enabled",
-      "Gamification/Radius": "enabled"
+      "Gamification/Radius": "enabled",
+      "Atoms/Color/Light_V2": "source"
     },
     "$figmaVariableReferences": {
       "Numbers.1": "fcdde97ef880dfff45b4f43a1c18fd69683140ff",
@@ -532,7 +532,6 @@
     "name": "Dark",
     "$figmaStyleReferences": {},
     "selectedTokenSets": {
-      "Atoms/Color/Dark_V1": "source",
       "Atoms/Shape/Spacing": "source",
       "Atoms/Shape/Sizing": "source",
       "Atoms/Shape/Radius": "source",
@@ -547,7 +546,8 @@
       "Gamification/color": "enabled",
       "Gamification/Spacing": "enabled",
       "Gamification/Images": "enabled",
-      "Gamification/Radius": "enabled"
+      "Gamification/Radius": "enabled",
+      "Atoms/Color/Dark_V2": "source"
     },
     "$figmaVariableReferences": {
       "Numbers.1": "fcdde97ef880dfff45b4f43a1c18fd69683140ff",
