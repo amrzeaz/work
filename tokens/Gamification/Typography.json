@@ -1,6 +1,6 @@
 {
   "typo": {
-    "Headline": {
+    "1x": {
       "handjet": {
         "bold": {
           "8": {
@@ -334,7 +334,7 @@
         }
       }
     },
-    "Title": {
+    "2x": {
       "handjet": {
         "bold": {
           "8": {
@@ -436,7 +436,7 @@
               "fontFamily": "{Tajawal}",
               "fontWeight": "{Regular}",
               "fontSize": "{Atom-Fontsize.10}",
-              "lineHeight": "{Atom-Lineheight.14}",
+              "lineHeight": "{Atom-Lineheight.12}",
               "letterSpacing": "0"
             },
             "type": "typography"
@@ -446,7 +446,7 @@
               "fontFamily": "{Tajawal}",
               "fontWeight": "{Regular}",
               "fontSize": "{Atom-Fontsize.12}",
-              "lineHeight": "{Atom-Lineheight.16}",
+              "lineHeight": "{Atom-Lineheight.14}",
               "letterSpacing": "0"
             },
             "type": "typography"
@@ -456,7 +456,7 @@
               "fontFamily": "{Tajawal}",
               "fontWeight": "{Regular}",
               "fontSize": "{Atom-Fontsize.14}",
-              "lineHeight": "{Atom-Lineheight.18}",
+              "lineHeight": "{Atom-Lineheight.16}",
               "letterSpacing": "0"
             },
             "type": "typography"
@@ -466,7 +466,7 @@
               "fontFamily": "{Tajawal}",
               "fontWeight": "{Regular}",
               "fontSize": "{Atom-Fontsize.16}",
-              "lineHeight": "{Atom-Lineheight.20}",
+              "lineHeight": "{Atom-Lineheight.18}",
               "letterSpacing": "0"
             },
             "type": "typography"
@@ -476,7 +476,7 @@
               "fontFamily": "{Tajawal}",
               "fontWeight": "{Regular}",
               "fontSize": "{Atom-Fontsize.18}",
-              "lineHeight": "{Atom-Lineheight.22}",
+              "lineHeight": "{Atom-Lineheight.20}",
               "letterSpacing": "0"
             },
             "type": "typography"
@@ -486,7 +486,7 @@
               "fontFamily": "{Tajawal}",
               "fontWeight": "{Regular}",
               "fontSize": "{Atom-Fontsize.20}",
-              "lineHeight": "{Atom-Lineheight.24}",
+              "lineHeight": "{Atom-Lineheight.22}",
               "letterSpacing": "0"
             },
             "type": "typography"
@@ -496,7 +496,7 @@
               "fontFamily": "{Tajawal}",
               "fontWeight": "{Regular}",
               "fontSize": "{Atom-Fontsize.24}",
-              "lineHeight": "{Atom-Lineheight.30}",
+              "lineHeight": "{Atom-Lineheight.26}",
               "letterSpacing": "0"
             },
             "type": "typography"
@@ -518,7 +518,7 @@
               "fontFamily": "{Tajawal}",
               "fontWeight": "{Medium}",
               "fontSize": "{Atom-Fontsize.10}",
-              "lineHeight": "{Atom-Lineheight.14}",
+              "lineHeight": "{Atom-Lineheight.12}",
               "letterSpacing": "0"
             },
             "type": "typography"
@@ -528,7 +528,7 @@
               "fontFamily": "{Tajawal}",
               "fontWeight": "{Medium}",
               "fontSize": "{Atom-Fontsize.12}",
-              "lineHeight": "{Atom-Lineheight.16}",
+              "lineHeight": "{Atom-Lineheight.14}",
               "letterSpacing": "0"
             },
             "type": "typography"
@@ -538,7 +538,7 @@
               "fontFamily": "{Tajawal}",
               "fontWeight": "{Medium}",
               "fontSize": "{Atom-Fontsize.14}",
-              "lineHeight": "{Atom-Lineheight.18}",
+              "lineHeight": "{Atom-Lineheight.16}",
               "letterSpacing": "0"
             },
             "type": "typography"
@@ -548,7 +548,7 @@
               "fontFamily": "{Tajawal}",
               "fontWeight": "{Medium}",
               "fontSize": "{Atom-Fontsize.16}",
-              "lineHeight": "{Atom-Lineheight.20}",
+              "lineHeight": "{Atom-Lineheight.18}",
               "letterSpacing": "0"
             },
             "type": "typography"
@@ -558,7 +558,7 @@
               "fontFamily": "{Tajawal}",
               "fontWeight": "{Medium}",
               "fontSize": "{Atom-Fontsize.18}",
-              "lineHeight": "{Atom-Lineheight.22}",
+              "lineHeight": "{Atom-Lineheight.20}",
               "letterSpacing": "0"
             },
             "type": "typography"
@@ -568,7 +568,7 @@
               "fontFamily": "{Tajawal}",
               "fontWeight": "{Medium}",
               "fontSize": "{Atom-Fontsize.20}",
-              "lineHeight": "{Atom-Lineheight.24}",
+              "lineHeight": "{Atom-Lineheight.22}",
               "letterSpacing": "0"
             },
             "type": "typography"
@@ -578,7 +578,7 @@
               "fontFamily": "{Tajawal}",
               "fontWeight": "{Medium}",
               "fontSize": "{Atom-Fontsize.24}",
-              "lineHeight": "{Atom-Lineheight.30}",
+              "lineHeight": "{Atom-Lineheight.26}",
               "letterSpacing": "0"
             },
             "type": "typography"
@@ -600,6 +600,340 @@
               "fontFamily": "{Tajawal}",
               "fontWeight": "{Bold}",
               "fontSize": "{Atom-Fontsize.10}",
+              "lineHeight": "{Atom-Lineheight.12}",
+              "letterSpacing": "0"
+            },
+            "type": "typography"
+          },
+          "12": {
+            "value": {
+              "fontFamily": "{Tajawal}",
+              "fontWeight": "{Bold}",
+              "fontSize": "{Atom-Fontsize.12}",
+              "lineHeight": "{Atom-Lineheight.14}",
+              "letterSpacing": "0"
+            },
+            "type": "typography"
+          },
+          "14": {
+            "value": {
+              "fontFamily": "{Tajawal}",
+              "fontWeight": "{Bold}",
+              "fontSize": "{Atom-Fontsize.14}",
+              "lineHeight": "{Atom-Lineheight.16}",
+              "letterSpacing": "0"
+            },
+            "type": "typography"
+          },
+          "16": {
+            "value": {
+              "fontFamily": "{Tajawal}",
+              "fontWeight": "{Bold}",
+              "fontSize": "{Atom-Fontsize.16}",
+              "lineHeight": "{Atom-Lineheight.18}",
+              "letterSpacing": "0"
+            },
+            "type": "typography"
+          },
+          "18": {
+            "value": {
+              "fontFamily": "{Tajawal}",
+              "fontWeight": "{Bold}",
+              "fontSize": "{Atom-Fontsize.18}",
+              "lineHeight": "{Atom-Lineheight.20}",
+              "letterSpacing": "0"
+            },
+            "type": "typography"
+          },
+          "20": {
+            "value": {
+              "fontFamily": "{Tajawal}",
+              "fontWeight": "{Bold}",
+              "fontSize": "{Atom-Fontsize.20}",
+              "lineHeight": "{Atom-Lineheight.22}",
+              "letterSpacing": "0"
+            },
+            "type": "typography"
+          },
+          "24": {
+            "value": {
+              "fontFamily": "{Tajawal}",
+              "fontWeight": "{Bold}",
+              "fontSize": "{Atom-Fontsize.24}",
+              "lineHeight": "{Atom-Lineheight.26}",
+              "letterSpacing": "0"
+            },
+            "type": "typography"
+          }
+        }
+      }
+    },
+    "3x": {
+      "handjet": {
+        "bold": {
+          "8": {
+            "value": {
+              "fontFamily": "{Handjet}",
+              "fontWeight": "{Bold}",
+              "fontSize": "{Atom-Fontsize.8}",
+              "lineHeight": "{Atom-Lineheight.12}",
+              "letterSpacing": "0"
+            },
+            "type": "typography"
+          },
+          "10": {
+            "value": {
+              "fontFamily": "{Handjet}",
+              "fontWeight": "{Bold}",
+              "fontSize": "{Atom-Fontsize.10}",
+              "lineHeight": "{Atom-Lineheight.14}",
+              "letterSpacing": "0"
+            },
+            "type": "typography"
+          },
+          "12": {
+            "value": {
+              "fontFamily": "{Handjet}",
+              "fontWeight": "{Bold}",
+              "fontSize": "{Atom-Fontsize.12}",
+              "lineHeight": "{Atom-Lineheight.18}",
+              "letterSpacing": "0"
+            },
+            "type": "typography"
+          },
+          "14": {
+            "value": {
+              "fontFamily": "{Handjet}",
+              "fontWeight": "{Bold}",
+              "fontSize": "{Atom-Fontsize.14}",
+              "lineHeight": "{Atom-Lineheight.20}",
+              "letterSpacing": "0"
+            },
+            "type": "typography"
+          },
+          "16": {
+            "value": {
+              "fontFamily": "{Handjet}",
+              "fontWeight": "{Bold}",
+              "fontSize": "{Atom-Fontsize.16}",
+              "lineHeight": "{Atom-Lineheight.22}",
+              "letterSpacing": "0"
+            },
+            "type": "typography"
+          },
+          "18": {
+            "value": {
+              "fontFamily": "{Handjet}",
+              "fontWeight": "{Bold}",
+              "fontSize": "{Atom-Fontsize.18}",
+              "lineHeight": "{Atom-Lineheight.24}",
+              "letterSpacing": "0"
+            },
+            "type": "typography"
+          },
+          "20": {
+            "value": {
+              "fontFamily": "{Handjet}",
+              "fontWeight": "{Bold}",
+              "fontSize": "{Atom-Fontsize.20}",
+              "lineHeight": "{Atom-Lineheight.28}",
+              "letterSpacing": "0"
+            },
+            "type": "typography"
+          },
+          "24": {
+            "value": {
+              "fontFamily": "{Handjet}",
+              "fontWeight": "{Bold}",
+              "fontSize": "{Atom-Fontsize.24}",
+              "lineHeight": "{Atom-Lineheight.32}",
+              "letterSpacing": "0"
+            },
+            "type": "typography"
+          }
+        }
+      },
+      "tajawal": {
+        "regular": {
+          "8": {
+            "value": {
+              "fontFamily": "{Tajawal}",
+              "fontWeight": "{Regular}",
+              "fontSize": "{Atom-Fontsize.8}",
+              "lineHeight": "{Atom-Lineheight.12}",
+              "letterSpacing": "0"
+            },
+            "type": "typography"
+          },
+          "10": {
+            "value": {
+              "fontFamily": "{Tajawal}",
+              "fontWeight": "{Regular}",
+              "fontSize": "{Atom-Fontsize.10}",
+              "lineHeight": "{Atom-Lineheight.14}",
+              "letterSpacing": "0"
+            },
+            "type": "typography"
+          },
+          "12": {
+            "value": {
+              "fontFamily": "{Tajawal}",
+              "fontWeight": "{Regular}",
+              "fontSize": "{Atom-Fontsize.12}",
+              "lineHeight": "{Atom-Lineheight.22}",
+              "letterSpacing": "0"
+            },
+            "type": "typography"
+          },
+          "14": {
+            "value": {
+              "fontFamily": "{Tajawal}",
+              "fontWeight": "{Regular}",
+              "fontSize": "{Atom-Fontsize.14}",
+              "lineHeight": "{Atom-Lineheight.24}",
+              "letterSpacing": "0"
+            },
+            "type": "typography"
+          },
+          "16": {
+            "value": {
+              "fontFamily": "{Tajawal}",
+              "fontWeight": "{Regular}",
+              "fontSize": "{Atom-Fontsize.16}",
+              "lineHeight": "{Atom-Lineheight.30}",
+              "letterSpacing": "0"
+            },
+            "type": "typography"
+          },
+          "18": {
+            "value": {
+              "fontFamily": "{Tajawal}",
+              "fontWeight": "{Regular}",
+              "fontSize": "{Atom-Fontsize.18}",
+              "lineHeight": "{Atom-Lineheight.32}",
+              "letterSpacing": "0"
+            },
+            "type": "typography"
+          },
+          "20": {
+            "value": {
+              "fontFamily": "{Tajawal}",
+              "fontWeight": "{Regular}",
+              "fontSize": "{Atom-Fontsize.20}",
+              "lineHeight": "{Atom-Lineheight.36}",
+              "letterSpacing": "0"
+            },
+            "type": "typography"
+          },
+          "24": {
+            "value": {
+              "fontFamily": "{Tajawal}",
+              "fontWeight": "{Regular}",
+              "fontSize": "{Atom-Fontsize.24}",
+              "lineHeight": "{Atom-Lineheight.40}",
+              "letterSpacing": "0"
+            },
+            "type": "typography"
+          }
+        },
+        "medium": {
+          "8": {
+            "value": {
+              "fontFamily": "{Tajawal}",
+              "fontWeight": "{Medium}",
+              "fontSize": "{Atom-Fontsize.8}",
+              "lineHeight": "{Atom-Lineheight.12}",
+              "letterSpacing": "0"
+            },
+            "type": "typography"
+          },
+          "10": {
+            "value": {
+              "fontFamily": "{Tajawal}",
+              "fontWeight": "{Medium}",
+              "fontSize": "{Atom-Fontsize.10}",
+              "lineHeight": "{Atom-Lineheight.14}",
+              "letterSpacing": "0"
+            },
+            "type": "typography"
+          },
+          "12": {
+            "value": {
+              "fontFamily": "{Tajawal}",
+              "fontWeight": "{Medium}",
+              "fontSize": "{Atom-Fontsize.12}",
+              "lineHeight": "{Atom-Lineheight.22}",
+              "letterSpacing": "0"
+            },
+            "type": "typography"
+          },
+          "14": {
+            "value": {
+              "fontFamily": "{Tajawal}",
+              "fontWeight": "{Medium}",
+              "fontSize": "{Atom-Fontsize.14}",
+              "lineHeight": "{Atom-Lineheight.24}",
+              "letterSpacing": "0"
+            },
+            "type": "typography"
+          },
+          "16": {
+            "value": {
+              "fontFamily": "{Tajawal}",
+              "fontWeight": "{Medium}",
+              "fontSize": "{Atom-Fontsize.16}",
+              "lineHeight": "{Atom-Lineheight.30}",
+              "letterSpacing": "0"
+            },
+            "type": "typography"
+          },
+          "18": {
+            "value": {
+              "fontFamily": "{Tajawal}",
+              "fontWeight": "{Medium}",
+              "fontSize": "{Atom-Fontsize.18}",
+              "lineHeight": "{Atom-Lineheight.32}",
+              "letterSpacing": "0"
+            },
+            "type": "typography"
+          },
+          "20": {
+            "value": {
+              "fontFamily": "{Tajawal}",
+              "fontWeight": "{Medium}",
+              "fontSize": "{Atom-Fontsize.20}",
+              "lineHeight": "{Atom-Lineheight.36}",
+              "letterSpacing": "0"
+            },
+            "type": "typography"
+          },
+          "24": {
+            "value": {
+              "fontFamily": "{Tajawal}",
+              "fontWeight": "{Medium}",
+              "fontSize": "{Atom-Fontsize.24}",
+              "lineHeight": "{Atom-Lineheight.40}",
+              "letterSpacing": "0"
+            },
+            "type": "typography"
+          }
+        },
+        "bold": {
+          "8": {
+            "value": {
+              "fontFamily": "{Tajawal}",
+              "fontWeight": "{Bold}",
+              "fontSize": "{Atom-Fontsize.8}",
+              "lineHeight": "{Atom-Lineheight.12}",
+              "letterSpacing": "0"
+            },
+            "type": "typography"
+          },
+          "10": {
+            "value": {
+              "fontFamily": "{Tajawal}",
+              "fontWeight": "{Bold}",
+              "fontSize": "{Atom-Fontsize.10}",
               "lineHeight": "{Atom-Lineheight.14}",
               "letterSpacing": "0"
             },
@@ -610,7 +944,7 @@
               "fontFamily": "{Tajawal}",
               "fontWeight": "{Bold}",
               "fontSize": "{Atom-Fontsize.12}",
-              "lineHeight": "{Atom-Lineheight.16}",
+              "lineHeight": "{Atom-Lineheight.22}",
               "letterSpacing": "0"
             },
             "type": "typography"
@@ -620,7 +954,7 @@
               "fontFamily": "{Tajawal}",
               "fontWeight": "{Bold}",
               "fontSize": "{Atom-Fontsize.14}",
-              "lineHeight": "{Atom-Lineheight.18}",
+              "lineHeight": "{Atom-Lineheight.24}",
               "letterSpacing": "0"
             },
             "type": "typography"
@@ -630,7 +964,7 @@
               "fontFamily": "{Tajawal}",
               "fontWeight": "{Bold}",
               "fontSize": "{Atom-Fontsize.16}",
-              "lineHeight": "{Atom-Lineheight.20}",
+              "lineHeight": "{Atom-Lineheight.30}",
               "letterSpacing": "0"
             },
             "type": "typography"
@@ -640,7 +974,7 @@
               "fontFamily": "{Tajawal}",
               "fontWeight": "{Bold}",
               "fontSize": "{Atom-Fontsize.18}",
-              "lineHeight": "{Atom-Lineheight.22}",
+              "lineHeight": "{Atom-Lineheight.32}",
               "letterSpacing": "0"
             },
             "type": "typography"
@@ -650,7 +984,7 @@
               "fontFamily": "{Tajawal}",
               "fontWeight": "{Bold}",
               "fontSize": "{Atom-Fontsize.20}",
-              "lineHeight": "{Atom-Lineheight.24}",
+              "lineHeight": "{Atom-Lineheight.36}",
               "letterSpacing": "0"
             },
             "type": "typography"
@@ -660,7 +994,7 @@
               "fontFamily": "{Tajawal}",
               "fontWeight": "{Bold}",
               "fontSize": "{Atom-Fontsize.24}",
-              "lineHeight": "{Atom-Lineheight.30}",
+              "lineHeight": "{Atom-Lineheight.40}",
               "letterSpacing": "0"
             },
             "type": "typography"
@@ -759,8 +1093,8 @@
             "value": {
               "fontFamily": "{Tajawal}",
               "fontWeight": "{Regular}",
-              "fontSize": "{Atom-Fontsize.14}",
-              "lineHeight": "{Atom-Lineheight.8}",
+              "fontSize": "{Atom-Fontsize.8}",
+              "lineHeight": "{Atom-Lineheight.14}",
               "letterSpacing": "0"
             },
             "type": "typography"
