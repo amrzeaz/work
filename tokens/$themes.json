@@ -411,7 +411,10 @@
       "typo.Paragraph.tajawal.bold.16": "S:f776d3bf9116cd627373d04a082d3692930bbb9b,",
       "typo.Paragraph.tajawal.bold.18": "S:40f1c150b0f97adb81e6102526dd1946dc3c5bd4,",
       "typo.Paragraph.tajawal.bold.20": "S:ed1ff1d993885cf164b477f1efa7860c838ef991,",
-      "typo.Paragraph.tajawal.bold.24": "S:522ad39dd74eb15c7928d993ee80d28f2ec1d8fc,"
+      "typo.Paragraph.tajawal.bold.24": "S:522ad39dd74eb15c7928d993ee80d28f2ec1d8fc,",
+      "Tints.yellow.light-yellow": "S:16aaa6b63fd9cfc72769f2f342fb7f5200b84ba5,",
+      "Tints.yellow.yellow": "S:d283e27e499a13387051281d272812fa3da7bb68,",
+      "Tints.yellow.orange": "S:8eec8ef3d8d94ebd000aff50cad03f7f0b3618ec,"
     },
     "selectedTokenSets": {
       "Atoms/Color/Light_V1": "source",
@@ -480,11 +483,12 @@
       "Radius.8": "35513715e3f8eac02f7aeca2eac94c10539662e0",
       "Radius.10": "5dca9cbe48be27cb80105f9b9ce20b3d16b5af0e",
       "Radius.12": "43276439f1ef8725ce52842403cd4b04c8a9c355",
-      "Radius.48": "28e9f6dcfc1e30f15fac081e8fb05e66170b8fcf",
+      "Radius.14": "8b475e2a6626da978411886e8a4e9acbd40b2a6a",
       "Radius.16": "bbf1df585cbb88ffd7dc345c280ab0e5a271289c",
       "Radius.18": "364c60471ba7fffcfd76dce052e5480d4cc14c6e",
       "Radius.20": "c33af1b90bf0c4204003b9b507934d028e7d80e5",
       "Radius.24": "c62700a83547258e34215d143cfcfe051c6aeae1",
+      "Radius.48": "28e9f6dcfc1e30f15fac081e8fb05e66170b8fcf",
       "text-out-surface.text.head": "d7072a782fc33b25884145de4c84edd835c064e0",
       "text-out-surface.text.sub": "2e8c5f2bd50a8a58698e9cf9748bd731ee391b02",
       "text-out-surface.text.paragraph": "e718269c056fa2f5fbb048fa0daeac62ff5ec2a2",
@@ -514,7 +518,10 @@
       "Tints.Purple.purple": "d3841318e54d5695bc9082e65f42795acc7e84d8",
       "Tints.Pink.light-Fuscia": "edf19c46d6a699c1a072c654c2154193c38c4735",
       "Tints.Pink.Fuscia": "4fcc3991a43efff2bc11c8f18cebf6f00bba7957",
-      "Tints.Pink.pink": "1c5c983e0b0395a265ffa56b3b83e2081540016e"
+      "Tints.Pink.pink": "1c5c983e0b0395a265ffa56b3b83e2081540016e",
+      "Tints.yellow.light-yellow": "6d925f22dccdc8f02cb335fca711d5331d2aa337",
+      "Tints.yellow.yellow": "3e07785f7f0609c8d55ff6e9338abdb461e3d1ab",
+      "Tints.yellow.orange": "6f546e4b4f4cb8a1756f83d726214a86a78e83a9"
     },
     "$figmaCollectionId": "VariableCollectionId:586:1290296",
     "$figmaModeId": "586:7",
@@ -591,11 +598,12 @@
       "Radius.8": "35513715e3f8eac02f7aeca2eac94c10539662e0",
       "Radius.10": "5dca9cbe48be27cb80105f9b9ce20b3d16b5af0e",
       "Radius.12": "43276439f1ef8725ce52842403cd4b04c8a9c355",
-      "Radius.48": "28e9f6dcfc1e30f15fac081e8fb05e66170b8fcf",
+      "Radius.14": "8b475e2a6626da978411886e8a4e9acbd40b2a6a",
       "Radius.16": "bbf1df585cbb88ffd7dc345c280ab0e5a271289c",
       "Radius.18": "364c60471ba7fffcfd76dce052e5480d4cc14c6e",
       "Radius.20": "c33af1b90bf0c4204003b9b507934d028e7d80e5",
       "Radius.24": "c62700a83547258e34215d143cfcfe051c6aeae1",
+      "Radius.48": "28e9f6dcfc1e30f15fac081e8fb05e66170b8fcf",
       "text-out-surface.text.head": "d7072a782fc33b25884145de4c84edd835c064e0",
       "text-out-surface.text.sub": "2e8c5f2bd50a8a58698e9cf9748bd731ee391b02",
       "text-out-surface.text.paragraph": "e718269c056fa2f5fbb048fa0daeac62ff5ec2a2",
@@ -625,7 +633,10 @@
       "Tints.Purple.purple": "d3841318e54d5695bc9082e65f42795acc7e84d8",
       "Tints.Pink.light-Fuscia": "edf19c46d6a699c1a072c654c2154193c38c4735",
       "Tints.Pink.Fuscia": "4fcc3991a43efff2bc11c8f18cebf6f00bba7957",
-      "Tints.Pink.pink": "1c5c983e0b0395a265ffa56b3b83e2081540016e"
+      "Tints.Pink.pink": "1c5c983e0b0395a265ffa56b3b83e2081540016e",
+      "Tints.yellow.light-yellow": "6d925f22dccdc8f02cb335fca711d5331d2aa337",
+      "Tints.yellow.yellow": "3e07785f7f0609c8d55ff6e9338abdb461e3d1ab",
+      "Tints.yellow.orange": "6f546e4b4f4cb8a1756f83d726214a86a78e83a9"
     },
     "$figmaCollectionId": "VariableCollectionId:586:1290296",
     "$figmaModeId": "586:8",
