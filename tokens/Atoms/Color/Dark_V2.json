@@ -3,69 +3,69 @@
     "text-out-surface": {
       "text": {
         "head": {
-          "value": "#131617",
+          "value": "#E9EBEC",
           "type": "color"
         },
         "sub": {
-          "value": "#60696C",
+          "value": "#9AA8AC",
           "type": "color"
         },
         "paragraph": {
-          "value": "#9CA7AB",
+          "value": "#5A6D72",
           "type": "color"
         }
       },
       "out": {
         "shape-high": {
-          "value": "#D0D9DC",
+          "value": "#334247",
           "type": "color"
         },
         "shape-low": {
-          "value": "#DEE5E7",
+          "value": "#283539",
           "type": "color"
         }
       },
       "surface": {
         "surface-high": {
-          "value": "#E6EDEF",
+          "value": "#1C2C30",
           "type": "color"
         },
         "surface-medium": {
-          "value": "#F2F6F7",
+          "value": "#142429",
           "type": "color"
         },
         "surface-low": {
-          "value": "#FAFCFC",
+          "value": "#0F2025",
           "type": "color"
         }
       },
       "levels": {
         "0": {
-          "value": "#ffffff",
+          "value": "#061C23",
           "type": "color"
         },
         "1": {
-          "value": "#FAFBFC",
+          "value": "#07232C",
           "type": "color"
         },
         "2": {
-          "value": "#F3F6F6",
+          "value": "#092A35",
           "type": "color"
         },
         "3": {
-          "value": "#EDF1F2",
+          "value": "#0A313D",
           "type": "color"
         },
         "4": {
-          "value": "#E7ECEE",
+          "value": "#0B3846",
           "type": "color"
         },
         "5": {
-          "value": "#D6DEE1",
+          "value": "#0D3F4F",
           "type": "color"
         },
         "6": {
-          "value": "#C4D0D4",
+          "value": "#115469",
           "type": "color"
         }
       }
@@ -73,85 +73,85 @@
     "Tints": {
       "blue": {
         "light-sky": {
-          "value": "#D8F5FD",
+          "value": "#BCE4F0",
           "type": "color"
         },
         "sky": {
-          "value": "#76DBF9",
+          "value": "#50C0E2",
           "type": "color"
         },
         "blue": {
-          "value": "#0D6782",
+          "value": "#135C72",
           "type": "color"
         }
       },
       "yellow": {
         "light-yellow": {
-          "value": "#FDF3D8",
+          "value": "#EEDCAA",
           "type": "color"
         },
         "yellow": {
-          "value": "#F9D676",
+          "value": "#EBCA6F",
           "type": "color"
         },
         "orange": {
-          "value": "#FF9232",
+          "value": "#E4893A",
           "type": "color"
         }
       },
       "red": {
         "light-rose": {
-          "value": "#FDD8DF",
+          "value": "#E6A7B3",
           "type": "color"
         },
         "rose": {
-          "value": "#F9768E",
+          "value": "#D0586E",
           "type": "color"
         },
         "red": {
-          "value": "#B90106",
+          "value": "#980B0F",
           "type": "color"
         }
       },
       "green": {
         "light-lime": {
-          "value": "#E9FDD8",
+          "value": "#DFF2CF",
           "type": "color"
         },
         "lime": {
-          "value": "#B3F976",
+          "value": "#B4E887",
           "type": "color"
         },
         "green": {
-          "value": "#76BF36",
+          "value": "#6DA63A",
           "type": "color"
         }
       },
       "purple": {
         "light-Mauve": {
-          "value": "#E1D6FF",
+          "value": "#BFB0E8",
           "type": "color"
         },
         "Mauve": {
-          "value": "#956FFF",
+          "value": "#8868DE",
           "type": "color"
         },
         "Purple": {
-          "value": "#7634C0",
+          "value": "#683C9A",
           "type": "color"
         }
       },
       "pink": {
         "light-Fuscia": {
-          "value": "#FDD8F6",
+          "value": "#E7B1DC",
           "type": "color"
         },
         "Fuscia": {
-          "value": "#F976DF",
+          "value": "#D06CBC",
           "type": "color"
         },
         "Pink": {
-          "value": "#A63A82",
+          "value": "#8A386E",
           "type": "color"
         }
       }

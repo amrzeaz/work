@@ -117,7 +117,7 @@
       "Atoms/Font/Weight": "source",
       "SCE/Style": "enabled",
       "SCE/Info-Icon": "enabled",
-      "Atoms/Color/Light_V2": "disabled"
+      "Atoms/Color/Dark_V2": "disabled"
     },
     "$figmaCollectionId": "VariableCollectionId:586:1290170",
     "$figmaModeId": "586:6",
@@ -434,7 +434,7 @@
       "Gamification/Spacing": "enabled",
       "Gamification/Images": "enabled",
       "Gamification/Radius": "enabled",
-      "Atoms/Color/Light_V2": "disabled"
+      "Atoms/Color/Dark_V2": "disabled"
     },
     "$figmaVariableReferences": {
       "Numbers.1": "fcdde97ef880dfff45b4f43a1c18fd69683140ff",
@@ -550,7 +550,7 @@
       "Gamification/Spacing": "enabled",
       "Gamification/Images": "enabled",
       "Gamification/Radius": "enabled",
-      "Atoms/Color/Light_V2": "disabled"
+      "Atoms/Color/Dark_V2": "disabled"
     },
     "$figmaVariableReferences": {
       "Numbers.1": "fcdde97ef880dfff45b4f43a1c18fd69683140ff",
