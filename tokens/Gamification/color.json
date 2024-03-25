@@ -67,6 +67,20 @@
         "value": "{Atom-Colors.text-out-surface.levels.6}",
         "type": "color"
       }
+    },
+    "default": {
+      "black": {
+        "value": "#121212",
+        "type": "color"
+      },
+      "white": {
+        "value": "#ffffff",
+        "type": "color"
+      },
+      "gray": {
+        "value": "#777777",
+        "type": "color"
+      }
     }
   },
   "Tints": {
