@@ -139,6 +139,20 @@
         "value": "{Atom-Colors.Tints.pink.Pink}",
         "type": "color"
       }
+    },
+    "yellow": {
+      "light-yellow": {
+        "value": "{Atom-Colors.Tints.yellow.light-yellow}",
+        "type": "color"
+      },
+      "yellow": {
+        "value": "{Atom-Colors.Tints.yellow.yellow}",
+        "type": "color"
+      },
+      "orange": {
+        "value": "{Atom-Colors.Tints.yellow.orange}",
+        "type": "color"
+      }
     }
   }
 }
