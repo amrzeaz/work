@@ -32,6 +32,22 @@
       "value": "{Atom-Radius.12}",
       "type": "borderRadius"
     },
+    "16": {
+      "value": "{Atom-Radius.16}",
+      "type": "borderRadius"
+    },
+    "18": {
+      "value": "{Atom-Radius.18}",
+      "type": "borderRadius"
+    },
+    "20": {
+      "value": "{Atom-Radius.20}",
+      "type": "borderRadius"
+    },
+    "24": {
+      "value": "{Atom-Radius.24}",
+      "type": "borderRadius"
+    },
     "48": {
       "value": "{Atom-Radius.48}",
       "type": "borderRadius"
