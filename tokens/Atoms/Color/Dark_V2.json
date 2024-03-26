@@ -17,11 +17,11 @@
       },
       "out": {
         "shape-high": {
-          "value": "#2E4952",
+          "value": "#304C55",
           "type": "color"
         },
         "shape-low": {
-          "value": "#1F3A42",
+          "value": "#213D45",
           "type": "color"
         }
       },
