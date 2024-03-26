@@ -3,39 +3,39 @@
     "text-out-surface": {
       "text": {
         "head": {
-          "value": "#EEF0F1",
+          "value": "#EEF1F2",
           "type": "color"
         },
         "sub": {
-          "value": "#9AA8AC",
+          "value": "#95ABB2",
           "type": "color"
         },
         "paragraph": {
-          "value": "#5A6D72",
+          "value": "#566F76",
           "type": "color"
         }
       },
       "out": {
         "shape-high": {
-          "value": "#30484F",
+          "value": "#2E4952",
           "type": "color"
         },
         "shape-low": {
-          "value": "#273A3F",
+          "value": "#1F3A42",
           "type": "color"
         }
       },
       "surface": {
         "surface-high": {
-          "value": "#1D2F35",
+          "value": "#193138",
           "type": "color"
         },
         "surface-medium": {
-          "value": "#15282D",
+          "value": "#132D35",
           "type": "color"
         },
         "surface-low": {
-          "value": "#12252B",
+          "value": "#0D2830",
           "type": "color"
         }
       },
