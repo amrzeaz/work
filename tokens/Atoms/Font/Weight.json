@@ -1,0 +1,18 @@
+{
+  "Regular": {
+    "value": "Regular",
+    "type": "fontWeights"
+  },
+  "Medium": {
+    "value": "Medium",
+    "type": "fontWeights"
+  },
+  "Bold": {
+    "value": "Bold",
+    "type": "fontWeights"
+  },
+  "SemiBold": {
+    "value": "SemiBold",
+    "type": "fontWeights"
+  }
+}

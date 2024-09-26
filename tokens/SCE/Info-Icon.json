@@ -1,0 +1,18 @@
+{
+  "Info-Icon-Color": {
+    "value": "{SCE.Main.9}",
+    "type": "color"
+  },
+  "Info-Iconbg-Color": {
+    "value": "{SCE.Main.1}",
+    "type": "color"
+  },
+  "input-Iconbg-Color": {
+    "value": "{SCE.Main.2}",
+    "type": "color"
+  },
+  "input-Iconbg-Color-gray": {
+    "value": "{Metal.5}",
+    "type": "color"
+  }
+}

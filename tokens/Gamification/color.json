@@ -1,0 +1,172 @@
+{
+  "text-out-surface": {
+    "text": {
+      "head": {
+        "value": "{Atom-Colors.text-out-surface.text.head}",
+        "type": "color"
+      },
+      "sub": {
+        "value": "{Atom-Colors.text-out-surface.text.sub}",
+        "type": "color"
+      },
+      "paragraph": {
+        "value": "{Atom-Colors.text-out-surface.text.paragraph}",
+        "type": "color"
+      }
+    },
+    "out": {
+      "high": {
+        "value": "{Atom-Colors.text-out-surface.out.shape-high}",
+        "type": "color"
+      },
+      "low": {
+        "value": "{Atom-Colors.text-out-surface.out.shape-low}",
+        "type": "color"
+      }
+    },
+    "surface": {
+      "high": {
+        "value": "{Atom-Colors.text-out-surface.surface.surface-high}",
+        "type": "color"
+      },
+      "medium": {
+        "value": "{Atom-Colors.text-out-surface.surface.surface-medium}",
+        "type": "color"
+      },
+      "low": {
+        "value": "{Atom-Colors.text-out-surface.surface.surface-low}",
+        "type": "color"
+      }
+    },
+    "levels": {
+      "0": {
+        "value": "{Atom-Colors.text-out-surface.levels.0}",
+        "type": "color"
+      },
+      "1": {
+        "value": "{Atom-Colors.text-out-surface.levels.1}",
+        "type": "color"
+      },
+      "2": {
+        "value": "{Atom-Colors.text-out-surface.levels.2}",
+        "type": "color"
+      },
+      "3": {
+        "value": "{Atom-Colors.text-out-surface.levels.3}",
+        "type": "color"
+      },
+      "4": {
+        "value": "{Atom-Colors.text-out-surface.levels.4}",
+        "type": "color"
+      },
+      "5": {
+        "value": "{Atom-Colors.text-out-surface.levels.5}",
+        "type": "color"
+      },
+      "6": {
+        "value": "{Atom-Colors.text-out-surface.levels.6}",
+        "type": "color"
+      }
+    },
+    "default": {
+      "black": {
+        "value": "#121212",
+        "type": "color"
+      },
+      "white": {
+        "value": "#ffffff",
+        "type": "color"
+      },
+      "gray": {
+        "value": "#777777",
+        "type": "color"
+      }
+    }
+  },
+  "Tints": {
+    "Blue": {
+      "light-sky": {
+        "value": "{Atom-Colors.Tints.blue.light-sky}",
+        "type": "color"
+      },
+      "sky": {
+        "value": "{Atom-Colors.Tints.blue.sky}",
+        "type": "color"
+      },
+      "blue": {
+        "value": "{Atom-Colors.Tints.blue.blue}",
+        "type": "color"
+      }
+    },
+    "Red": {
+      "light-rose": {
+        "value": "{Atom-Colors.Tints.red.light-rose}",
+        "type": "color"
+      },
+      "rose": {
+        "value": "{Atom-Colors.Tints.red.rose}",
+        "type": "color"
+      },
+      "red": {
+        "value": "{Atom-Colors.Tints.red.red}",
+        "type": "color"
+      }
+    },
+    "Green": {
+      "light-lime": {
+        "value": "{Atom-Colors.Tints.green.light-lime}",
+        "type": "color"
+      },
+      "lime": {
+        "value": "{Atom-Colors.Tints.green.lime}",
+        "type": "color"
+      },
+      "green": {
+        "value": "{Atom-Colors.Tints.green.green}",
+        "type": "color"
+      }
+    },
+    "Purple": {
+      "light-Mauve": {
+        "value": "{Atom-Colors.Tints.purple.light-Mauve}",
+        "type": "color"
+      },
+      "Mauve": {
+        "value": "{Atom-Colors.Tints.purple.Mauve}",
+        "type": "color"
+      },
+      "purple": {
+        "value": "{Atom-Colors.Tints.purple.Purple}",
+        "type": "color"
+      }
+    },
+    "Pink": {
+      "light-Fuscia": {
+        "value": "{Atom-Colors.Tints.pink.light-Fuscia}",
+        "type": "color"
+      },
+      "Fuscia": {
+        "value": "{Atom-Colors.Tints.pink.Fuscia}",
+        "type": "color"
+      },
+      "pink": {
+        "value": "{Atom-Colors.Tints.pink.Pink}",
+        "type": "color"
+      }
+    },
+    "yellow": {
+      "light-yellow": {
+        "value": "{Atom-Colors.Tints.yellow.light-yellow}",
+        "type": "color"
+      },
+      "yellow": {
+        "value": "{Atom-Colors.Tints.yellow.yellow}",
+        "type": "color"
+      },
+      "orange": {
+        "value": "{Atom-Colors.Tints.yellow.orange}",
+        "type": "color"
+      }
+    }
+  }
+}

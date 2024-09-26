@@ -1,0 +1,14 @@
+{
+  "Cairo": {
+    "value": "Cairo",
+    "type": "fontFamilies"
+  },
+  "Handjet": {
+    "value": "Handjet",
+    "type": "fontFamilies"
+  },
+  "Tajawal": {
+    "value": "Vazirmatn",
+    "type": "fontFamilies"
+  }
+}

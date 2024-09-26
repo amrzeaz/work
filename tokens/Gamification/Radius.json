@@ -1,0 +1,60 @@
+{
+  "Radius": {
+    "0": {
+      "value": "{Atom-Radius.0}",
+      "type": "borderRadius"
+    },
+    "1": {
+      "value": "{Atom-Radius.1}",
+      "type": "borderRadius"
+    },
+    "3": {
+      "value": "{Atom-Radius.3}",
+      "type": "borderRadius"
+    },
+    "4": {
+      "value": "{Atom-Radius.4}",
+      "type": "borderRadius"
+    },
+    "6": {
+      "value": "{Atom-Radius.6}",
+      "type": "borderRadius"
+    },
+    "8": {
+      "value": "{Atom-Radius.8}",
+      "type": "borderRadius"
+    },
+    "10": {
+      "value": "{Atom-Radius.10}",
+      "type": "borderRadius"
+    },
+    "12": {
+      "value": "{Atom-Radius.12}",
+      "type": "borderRadius"
+    },
+    "14": {
+      "value": "{Atom-Radius.14}",
+      "type": "borderRadius"
+    },
+    "16": {
+      "value": "{Atom-Radius.16}",
+      "type": "borderRadius"
+    },
+    "18": {
+      "value": "{Atom-Radius.18}",
+      "type": "borderRadius"
+    },
+    "20": {
+      "value": "{Atom-Radius.20}",
+      "type": "borderRadius"
+    },
+    "24": {
+      "value": "{Atom-Radius.24}",
+      "type": "borderRadius"
+    },
+    "48": {
+      "value": "{Atom-Radius.48}",
+      "type": "borderRadius"
+    }
+  }
+}
