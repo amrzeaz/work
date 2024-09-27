@@ -1,6 +1,7 @@
 {
   "tokenSetOrder": [
-    "Core/Premitives",
+    "Global/Colors-Light",
+    "Global/Colors-Dark",
     "Theme/Light",
     "Theme/Dark",
     "Semantic/Dimension",
@@ -12,6 +13,7 @@
     "Components/List",
     "Components/Breadcrumb",
     "Components/Menu",
+    "Components/Tab",
     "Components/Tooltip"
   ]
 }

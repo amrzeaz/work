@@ -1,1 +1,83 @@
-[]
+[
+  {
+    "id": "af3a819eed188d7dc6b7f29948f74e854f7dcf5c",
+    "name": "Light",
+    "$figmaStyleReferences": {},
+    "selectedTokenSets": {
+      "Theme/Light": "enabled",
+      "Semantic/Dimension": "enabled",
+      "Semantic/Color": "enabled",
+      "Semantic/Typography": "enabled",
+      "Semantic/Effect": "enabled",
+      "Components/Button": "enabled",
+      "Components/Input": "enabled",
+      "Components/List": "enabled",
+      "Components/Breadcrumb": "enabled",
+      "Components/Menu": "enabled",
+      "Components/Tooltip": "enabled",
+      "Components/Tab": "source",
+      "Global/Colors-Light": "enabled"
+    },
+    "group": "SCE",
+    "$figmaCollectionId": "VariableCollectionId:98:466",
+    "$figmaModeId": "98:2",
+    "$figmaVariableReferences": {
+      "cooolor.BTN-Surface": "882ef888f9f0f79039bde7475e671e7718501956",
+      "Gray.20": "8438f4a5d5d351094e69d675d81e99b57e9a7927",
+      "Theme-Color.Gray": "b85e05a9f7cd6e522155d4c09e85fbea7b2df09b",
+      "Base-Light.20": "a56b41b057ff7f760d795e4b54cf9751b5038ff0",
+      "Base-Light.40": "b31fb625ba1887b5081a723bc68a65bba235716f",
+      "Base-Light.60": "be332dc84e1f66099f89b9039954a7b405740e29",
+      "Base-Light.80": "79c8d341f92a190a7d78af0131ff3fae5bf6bf69",
+      "Base-Light.100": "e5e1b944e9a71ecdb77d0165487633069fb77ebe",
+      "Base-Light.200": "97c37e5e2edf7f0399018545c3f1982dc9255d71",
+      "Base-Light.300": "cc2fb33564160d67cdade3a61783a52b70844af1",
+      "Base-Light.400": "15ca06bab6a5524579ea69ee4de5605c8118bd88",
+      "Base-Light.500": "c4a2534b6b7d8e7eb0e80885fc2598a22ca2a74c",
+      "Base-Light.600": "34d32e877877511fa3d9a20476ee18f9d8b5bffb",
+      "Base-Light.700": "4f396e26db2b41f816fe7e963e88b16d8216f3a7",
+      "Base-Light.800": "cc1462a52e5b9f65d9686f1bb19f0ef54887844f",
+      "Base-Light.900": "516211e388c2fa158fff3171145989a8c94237c6"
+    }
+  },
+  {
+    "id": "ce006aa69a4ba91f0bc03fd454178a325dfc831d",
+    "name": "Dark",
+    "$figmaStyleReferences": {},
+    "selectedTokenSets": {
+      "Semantic/Dimension": "enabled",
+      "Semantic/Color": "enabled",
+      "Semantic/Typography": "enabled",
+      "Semantic/Effect": "enabled",
+      "Components/Button": "enabled",
+      "Components/Input": "enabled",
+      "Components/List": "enabled",
+      "Components/Breadcrumb": "enabled",
+      "Components/Menu": "enabled",
+      "Components/Tooltip": "enabled",
+      "Theme/Dark": "source",
+      "Components/Tab": "source",
+      "Global/Colors-Light": "enabled"
+    },
+    "group": "SCE",
+    "$figmaCollectionId": "VariableCollectionId:98:466",
+    "$figmaModeId": "98:3",
+    "$figmaVariableReferences": {
+      "cooolor.BTN-Surface": "882ef888f9f0f79039bde7475e671e7718501956",
+      "Gray.20": "8438f4a5d5d351094e69d675d81e99b57e9a7927",
+      "Base-Light.20": "a56b41b057ff7f760d795e4b54cf9751b5038ff0",
+      "Base-Light.40": "b31fb625ba1887b5081a723bc68a65bba235716f",
+      "Base-Light.60": "be332dc84e1f66099f89b9039954a7b405740e29",
+      "Base-Light.80": "79c8d341f92a190a7d78af0131ff3fae5bf6bf69",
+      "Base-Light.100": "e5e1b944e9a71ecdb77d0165487633069fb77ebe",
+      "Base-Light.200": "97c37e5e2edf7f0399018545c3f1982dc9255d71",
+      "Base-Light.300": "cc2fb33564160d67cdade3a61783a52b70844af1",
+      "Base-Light.400": "15ca06bab6a5524579ea69ee4de5605c8118bd88",
+      "Base-Light.500": "c4a2534b6b7d8e7eb0e80885fc2598a22ca2a74c",
+      "Base-Light.600": "34d32e877877511fa3d9a20476ee18f9d8b5bffb",
+      "Base-Light.700": "4f396e26db2b41f816fe7e963e88b16d8216f3a7",
+      "Base-Light.800": "cc1462a52e5b9f65d9686f1bb19f0ef54887844f",
+      "Base-Light.900": "516211e388c2fa158fff3171145989a8c94237c6"
+    }
+  }
+]
